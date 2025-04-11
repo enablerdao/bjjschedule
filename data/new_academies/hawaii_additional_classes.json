@@ -1,0 +1,679 @@
+{
+  "classes": [
+    {
+      "academy": "Tako Jiu-Jitsu Academy",
+      "name": "Fundamentals",
+      "description": "Basic techniques for beginners",
+      "day": "Monday",
+      "time": "06:30 - 07:30",
+      "instructor": "Professor Kenji",
+      "type": "初心者"
+    },
+    {
+      "academy": "Tako Jiu-Jitsu Academy",
+      "name": "Advanced",
+      "description": "Advanced techniques and sparring",
+      "day": "Monday",
+      "time": "18:00 - 19:30",
+      "instructor": "Professor Kenji",
+      "type": "上級"
+    },
+    {
+      "academy": "Tako Jiu-Jitsu Academy",
+      "name": "Kids Class",
+      "description": "Jiu-Jitsu for children ages 5-12",
+      "day": "Tuesday",
+      "time": "16:00 - 17:00",
+      "instructor": "Coach Lani",
+      "type": "キッズ"
+    },
+    {
+      "academy": "Tako Jiu-Jitsu Academy",
+      "name": "No-Gi",
+      "description": "Grappling without the traditional gi",
+      "day": "Wednesday",
+      "time": "18:00 - 19:30",
+      "instructor": "Professor Kenji",
+      "type": "ノーギ"
+    },
+    {
+      "academy": "Tako Jiu-Jitsu Academy",
+      "name": "Competition Training",
+      "description": "Focused training for competition",
+      "day": "Thursday",
+      "time": "18:00 - 19:30",
+      "instructor": "Professor Kenji",
+      "type": "競技"
+    },
+    {
+      "academy": "Tako Jiu-Jitsu Academy",
+      "name": "Open Mat",
+      "description": "Free rolling session for all levels",
+      "day": "Saturday",
+      "time": "10:00 - 12:00",
+      "instructor": "Professor Kenji",
+      "type": "オープンマット"
+    },
+    {
+      "academy": "HNL Jiu Jitsu Academy",
+      "name": "Morning Fundamentals",
+      "description": "Basic techniques for beginners",
+      "day": "Monday",
+      "time": "07:00 - 08:00",
+      "instructor": "Professor Mike",
+      "type": "初心者"
+    },
+    {
+      "academy": "HNL Jiu Jitsu Academy",
+      "name": "Lunch Roll",
+      "description": "Open mat session during lunch hour",
+      "day": "Monday",
+      "time": "12:00 - 13:00",
+      "instructor": "Professor Mike",
+      "type": "オープンマット"
+    },
+    {
+      "academy": "HNL Jiu Jitsu Academy",
+      "name": "Kids Class",
+      "description": "Jiu-Jitsu for children ages 5-12",
+      "day": "Monday",
+      "time": "16:00 - 17:00",
+      "instructor": "Coach Sarah",
+      "type": "キッズ"
+    },
+    {
+      "academy": "HNL Jiu Jitsu Academy",
+      "name": "Evening Fundamentals",
+      "description": "Basic techniques for beginners",
+      "day": "Monday",
+      "time": "18:00 - 19:00",
+      "instructor": "Professor Mike",
+      "type": "初心者"
+    },
+    {
+      "academy": "HNL Jiu Jitsu Academy",
+      "name": "Advanced",
+      "description": "Advanced techniques and sparring",
+      "day": "Monday",
+      "time": "19:00 - 20:30",
+      "instructor": "Professor Mike",
+      "type": "上級"
+    },
+    {
+      "academy": "HNL Jiu Jitsu Academy",
+      "name": "No-Gi Fundamentals",
+      "description": "Basic No-Gi techniques",
+      "day": "Tuesday",
+      "time": "18:00 - 19:00",
+      "instructor": "Coach David",
+      "type": "ノーギ"
+    },
+    {
+      "academy": "HNL Jiu Jitsu Academy",
+      "name": "Competition Training",
+      "description": "Focused training for competition",
+      "day": "Wednesday",
+      "time": "19:00 - 20:30",
+      "instructor": "Professor Mike",
+      "type": "競技"
+    },
+    {
+      "academy": "HNL Jiu Jitsu Academy",
+      "name": "Women's Only Class",
+      "description": "Jiu-Jitsu class for women",
+      "day": "Thursday",
+      "time": "18:00 - 19:00",
+      "instructor": "Coach Sarah",
+      "type": "女性専用"
+    },
+    {
+      "academy": "HNL Jiu Jitsu Academy",
+      "name": "Open Mat",
+      "description": "Free rolling session for all levels",
+      "day": "Saturday",
+      "time": "10:00 - 12:00",
+      "instructor": "Professor Mike",
+      "type": "オープンマット"
+    },
+    {
+      "academy": "Ground Strike Fitness & Jiu Jitsu",
+      "name": "Morning Fitness & BJJ",
+      "description": "Combination of fitness and BJJ techniques",
+      "day": "Monday",
+      "time": "06:00 - 07:30",
+      "instructor": "Coach Ryan",
+      "type": "初心者"
+    },
+    {
+      "academy": "Ground Strike Fitness & Jiu Jitsu",
+      "name": "Lunch BJJ",
+      "description": "Quick BJJ session during lunch",
+      "day": "Monday",
+      "time": "12:00 - 13:00",
+      "instructor": "Coach Ryan",
+      "type": "全レベル"
+    },
+    {
+      "academy": "Ground Strike Fitness & Jiu Jitsu",
+      "name": "Kids BJJ",
+      "description": "BJJ for children ages 6-12",
+      "day": "Monday",
+      "time": "16:00 - 17:00",
+      "instructor": "Coach Malia",
+      "type": "キッズ"
+    },
+    {
+      "academy": "Ground Strike Fitness & Jiu Jitsu",
+      "name": "Evening Fundamentals",
+      "description": "Basic techniques for beginners",
+      "day": "Monday",
+      "time": "18:00 - 19:00",
+      "instructor": "Coach Ryan",
+      "type": "初心者"
+    },
+    {
+      "academy": "Ground Strike Fitness & Jiu Jitsu",
+      "name": "Advanced Training",
+      "description": "Advanced techniques and sparring",
+      "day": "Monday",
+      "time": "19:00 - 20:30",
+      "instructor": "Coach Ryan",
+      "type": "上級"
+    },
+    {
+      "academy": "Ground Strike Fitness & Jiu Jitsu",
+      "name": "No-Gi Training",
+      "description": "Grappling without the traditional gi",
+      "day": "Tuesday",
+      "time": "18:00 - 19:30",
+      "instructor": "Coach Ryan",
+      "type": "ノーギ"
+    },
+    {
+      "academy": "Ground Strike Fitness & Jiu Jitsu",
+      "name": "Competition Prep",
+      "description": "Preparation for competitions",
+      "day": "Wednesday",
+      "time": "19:00 - 20:30",
+      "instructor": "Coach Ryan",
+      "type": "競技"
+    },
+    {
+      "academy": "Ground Strike Fitness & Jiu Jitsu",
+      "name": "Women's Self-Defense",
+      "description": "Self-defense techniques for women",
+      "day": "Thursday",
+      "time": "18:00 - 19:00",
+      "instructor": "Coach Malia",
+      "type": "女性専用"
+    },
+    {
+      "academy": "Ground Strike Fitness & Jiu Jitsu",
+      "name": "Open Mat",
+      "description": "Free rolling session for all levels",
+      "day": "Saturday",
+      "time": "10:00 - 12:00",
+      "instructor": "Coach Ryan",
+      "type": "オープンマット"
+    },
+    {
+      "academy": "O2 Martial Arts Academy",
+      "name": "Morning BJJ",
+      "description": "Morning Brazilian Jiu-Jitsu session",
+      "day": "Monday",
+      "time": "06:30 - 07:30",
+      "instructor": "Professor James",
+      "type": "初心者"
+    },
+    {
+      "academy": "O2 Martial Arts Academy",
+      "name": "Lunch BJJ",
+      "description": "Lunchtime Brazilian Jiu-Jitsu session",
+      "day": "Monday",
+      "time": "12:00 - 13:00",
+      "instructor": "Professor James",
+      "type": "全レベル"
+    },
+    {
+      "academy": "O2 Martial Arts Academy",
+      "name": "Kids BJJ",
+      "description": "Brazilian Jiu-Jitsu for children",
+      "day": "Monday",
+      "time": "16:00 - 17:00",
+      "instructor": "Coach Lisa",
+      "type": "キッズ"
+    },
+    {
+      "academy": "O2 Martial Arts Academy",
+      "name": "Fundamentals",
+      "description": "Basic techniques for beginners",
+      "day": "Monday",
+      "time": "18:00 - 19:00",
+      "instructor": "Professor James",
+      "type": "初心者"
+    },
+    {
+      "academy": "O2 Martial Arts Academy",
+      "name": "Advanced",
+      "description": "Advanced techniques and sparring",
+      "day": "Monday",
+      "time": "19:00 - 20:30",
+      "instructor": "Professor James",
+      "type": "上級"
+    },
+    {
+      "academy": "O2 Martial Arts Academy",
+      "name": "No-Gi",
+      "description": "Grappling without the traditional gi",
+      "day": "Tuesday",
+      "time": "18:00 - 19:30",
+      "instructor": "Professor James",
+      "type": "ノーギ"
+    },
+    {
+      "academy": "O2 Martial Arts Academy",
+      "name": "Competition Training",
+      "description": "Focused training for competition",
+      "day": "Wednesday",
+      "time": "19:00 - 20:30",
+      "instructor": "Professor James",
+      "type": "競技"
+    },
+    {
+      "academy": "O2 Martial Arts Academy",
+      "name": "Women's BJJ",
+      "description": "Brazilian Jiu-Jitsu class for women",
+      "day": "Thursday",
+      "time": "18:00 - 19:00",
+      "instructor": "Coach Lisa",
+      "type": "女性専用"
+    },
+    {
+      "academy": "O2 Martial Arts Academy",
+      "name": "Open Mat",
+      "description": "Free rolling session for all levels",
+      "day": "Saturday",
+      "time": "10:00 - 12:00",
+      "instructor": "Professor James",
+      "type": "オープンマット"
+    },
+    {
+      "academy": "The Mango Tree",
+      "name": "Morning Flow",
+      "description": "Flow-based training in the morning",
+      "day": "Monday",
+      "time": "07:00 - 08:00",
+      "instructor": "Professor Kai",
+      "type": "全レベル"
+    },
+    {
+      "academy": "The Mango Tree",
+      "name": "Kids Class",
+      "description": "Jiu-Jitsu for children ages 5-12",
+      "day": "Monday",
+      "time": "16:00 - 17:00",
+      "instructor": "Coach Nani",
+      "type": "キッズ"
+    },
+    {
+      "academy": "The Mango Tree",
+      "name": "Fundamentals",
+      "description": "Basic techniques for beginners",
+      "day": "Monday",
+      "time": "18:00 - 19:00",
+      "instructor": "Professor Kai",
+      "type": "初心者"
+    },
+    {
+      "academy": "The Mango Tree",
+      "name": "Advanced",
+      "description": "Advanced techniques and sparring",
+      "day": "Monday",
+      "time": "19:00 - 20:30",
+      "instructor": "Professor Kai",
+      "type": "上級"
+    },
+    {
+      "academy": "The Mango Tree",
+      "name": "No-Gi",
+      "description": "Grappling without the traditional gi",
+      "day": "Tuesday",
+      "time": "18:00 - 19:30",
+      "instructor": "Professor Kai",
+      "type": "ノーギ"
+    },
+    {
+      "academy": "The Mango Tree",
+      "name": "Competition Training",
+      "description": "Focused training for competition",
+      "day": "Wednesday",
+      "time": "19:00 - 20:30",
+      "instructor": "Professor Kai",
+      "type": "競技"
+    },
+    {
+      "academy": "The Mango Tree",
+      "name": "Women's Only",
+      "description": "Jiu-Jitsu class for women",
+      "day": "Thursday",
+      "time": "18:00 - 19:00",
+      "instructor": "Coach Nani",
+      "type": "女性専用"
+    },
+    {
+      "academy": "The Mango Tree",
+      "name": "Open Mat",
+      "description": "Free rolling session for all levels",
+      "day": "Saturday",
+      "time": "10:00 - 12:00",
+      "instructor": "Professor Kai",
+      "type": "オープンマット"
+    },
+    {
+      "academy": "Team Magrinho",
+      "name": "Morning Training",
+      "description": "Morning training session",
+      "day": "Monday",
+      "time": "06:30 - 08:00",
+      "instructor": "Professor Bruno",
+      "type": "全レベル"
+    },
+    {
+      "academy": "Team Magrinho",
+      "name": "Kids Class",
+      "description": "Jiu-Jitsu for children",
+      "day": "Monday",
+      "time": "16:00 - 17:00",
+      "instructor": "Coach Tiago",
+      "type": "キッズ"
+    },
+    {
+      "academy": "Team Magrinho",
+      "name": "Fundamentals",
+      "description": "Basic techniques for beginners",
+      "day": "Monday",
+      "time": "18:00 - 19:00",
+      "instructor": "Professor Bruno",
+      "type": "初心者"
+    },
+    {
+      "academy": "Team Magrinho",
+      "name": "Advanced",
+      "description": "Advanced techniques and sparring",
+      "day": "Monday",
+      "time": "19:00 - 20:30",
+      "instructor": "Professor Bruno",
+      "type": "上級"
+    },
+    {
+      "academy": "Team Magrinho",
+      "name": "No-Gi",
+      "description": "Grappling without the traditional gi",
+      "day": "Tuesday",
+      "time": "18:00 - 19:30",
+      "instructor": "Professor Bruno",
+      "type": "ノーギ"
+    },
+    {
+      "academy": "Team Magrinho",
+      "name": "Competition Training",
+      "description": "Focused training for competition",
+      "day": "Wednesday",
+      "time": "19:00 - 20:30",
+      "instructor": "Professor Bruno",
+      "type": "競技"
+    },
+    {
+      "academy": "Team Magrinho",
+      "name": "Women's Class",
+      "description": "Jiu-Jitsu class for women",
+      "day": "Thursday",
+      "time": "18:00 - 19:00",
+      "instructor": "Coach Ana",
+      "type": "女性専用"
+    },
+    {
+      "academy": "Team Magrinho",
+      "name": "Open Mat",
+      "description": "Free rolling session for all levels",
+      "day": "Saturday",
+      "time": "10:00 - 12:00",
+      "instructor": "Professor Bruno",
+      "type": "オープンマット"
+    },
+    {
+      "academy": "Kansept Academy",
+      "name": "Morning Fundamentals",
+      "description": "Basic techniques for beginners",
+      "day": "Monday",
+      "time": "07:00 - 08:00",
+      "instructor": "Professor Lee",
+      "type": "初心者"
+    },
+    {
+      "academy": "Kansept Academy",
+      "name": "Lunch Training",
+      "description": "Lunchtime training session",
+      "day": "Monday",
+      "time": "12:00 - 13:00",
+      "instructor": "Professor Lee",
+      "type": "全レベル"
+    },
+    {
+      "academy": "Kansept Academy",
+      "name": "Kids Class",
+      "description": "Jiu-Jitsu for children",
+      "day": "Monday",
+      "time": "16:00 - 17:00",
+      "instructor": "Coach Jenny",
+      "type": "キッズ"
+    },
+    {
+      "academy": "Kansept Academy",
+      "name": "Evening Fundamentals",
+      "description": "Basic techniques for beginners",
+      "day": "Monday",
+      "time": "18:00 - 19:00",
+      "instructor": "Professor Lee",
+      "type": "初心者"
+    },
+    {
+      "academy": "Kansept Academy",
+      "name": "Advanced",
+      "description": "Advanced techniques and sparring",
+      "day": "Monday",
+      "time": "19:00 - 20:30",
+      "instructor": "Professor Lee",
+      "type": "上級"
+    },
+    {
+      "academy": "Kansept Academy",
+      "name": "No-Gi",
+      "description": "Grappling without the traditional gi",
+      "day": "Tuesday",
+      "time": "18:00 - 19:30",
+      "instructor": "Professor Lee",
+      "type": "ノーギ"
+    },
+    {
+      "academy": "Kansept Academy",
+      "name": "Competition Training",
+      "description": "Focused training for competition",
+      "day": "Wednesday",
+      "time": "19:00 - 20:30",
+      "instructor": "Professor Lee",
+      "type": "競技"
+    },
+    {
+      "academy": "Kansept Academy",
+      "name": "Women's Only",
+      "description": "Jiu-Jitsu class for women",
+      "day": "Thursday",
+      "time": "18:00 - 19:00",
+      "instructor": "Coach Jenny",
+      "type": "女性専用"
+    },
+    {
+      "academy": "Kansept Academy",
+      "name": "Open Mat",
+      "description": "Free rolling session for all levels",
+      "day": "Saturday",
+      "time": "10:00 - 12:00",
+      "instructor": "Professor Lee",
+      "type": "オープンマット"
+    },
+    {
+      "academy": "Team Papakolea",
+      "name": "Morning Training",
+      "description": "Morning training session",
+      "day": "Monday",
+      "time": "07:00 - 08:00",
+      "instructor": "Professor Kimo",
+      "type": "全レベル"
+    },
+    {
+      "academy": "Team Papakolea",
+      "name": "Kids Class",
+      "description": "Jiu-Jitsu for children",
+      "day": "Monday",
+      "time": "16:00 - 17:00",
+      "instructor": "Coach Leilani",
+      "type": "キッズ"
+    },
+    {
+      "academy": "Team Papakolea",
+      "name": "Fundamentals",
+      "description": "Basic techniques for beginners",
+      "day": "Monday",
+      "time": "18:00 - 19:00",
+      "instructor": "Professor Kimo",
+      "type": "初心者"
+    },
+    {
+      "academy": "Team Papakolea",
+      "name": "Advanced",
+      "description": "Advanced techniques and sparring",
+      "day": "Monday",
+      "time": "19:00 - 20:30",
+      "instructor": "Professor Kimo",
+      "type": "上級"
+    },
+    {
+      "academy": "Team Papakolea",
+      "name": "No-Gi",
+      "description": "Grappling without the traditional gi",
+      "day": "Tuesday",
+      "time": "18:00 - 19:30",
+      "instructor": "Professor Kimo",
+      "type": "ノーギ"
+    },
+    {
+      "academy": "Team Papakolea",
+      "name": "Competition Training",
+      "description": "Focused training for competition",
+      "day": "Wednesday",
+      "time": "19:00 - 20:30",
+      "instructor": "Professor Kimo",
+      "type": "競技"
+    },
+    {
+      "academy": "Team Papakolea",
+      "name": "Women's Class",
+      "description": "Jiu-Jitsu class for women",
+      "day": "Thursday",
+      "time": "18:00 - 19:00",
+      "instructor": "Coach Leilani",
+      "type": "女性専用"
+    },
+    {
+      "academy": "Team Papakolea",
+      "name": "Open Mat",
+      "description": "Free rolling session for all levels",
+      "day": "Saturday",
+      "time": "10:00 - 12:00",
+      "instructor": "Professor Kimo",
+      "type": "オープンマット"
+    },
+    {
+      "academy": "Purebred Jiu-Jitsu Hawaii",
+      "name": "Morning Fundamentals",
+      "description": "Basic techniques for beginners",
+      "day": "Monday",
+      "time": "06:30 - 07:30",
+      "instructor": "Professor Enson",
+      "type": "初心者"
+    },
+    {
+      "academy": "Purebred Jiu-Jitsu Hawaii",
+      "name": "Lunch Training",
+      "description": "Lunchtime training session",
+      "day": "Monday",
+      "time": "12:00 - 13:00",
+      "instructor": "Professor Enson",
+      "type": "全レベル"
+    },
+    {
+      "academy": "Purebred Jiu-Jitsu Hawaii",
+      "name": "Kids Class",
+      "description": "Jiu-Jitsu for children",
+      "day": "Monday",
+      "time": "16:00 - 17:00",
+      "instructor": "Coach Yuki",
+      "type": "キッズ"
+    },
+    {
+      "academy": "Purebred Jiu-Jitsu Hawaii",
+      "name": "Evening Fundamentals",
+      "description": "Basic techniques for beginners",
+      "day": "Monday",
+      "time": "18:00 - 19:00",
+      "instructor": "Professor Enson",
+      "type": "初心者"
+    },
+    {
+      "academy": "Purebred Jiu-Jitsu Hawaii",
+      "name": "Advanced",
+      "description": "Advanced techniques and sparring",
+      "day": "Monday",
+      "time": "19:00 - 20:30",
+      "instructor": "Professor Enson",
+      "type": "上級"
+    },
+    {
+      "academy": "Purebred Jiu-Jitsu Hawaii",
+      "name": "No-Gi",
+      "description": "Grappling without the traditional gi",
+      "day": "Tuesday",
+      "time": "18:00 - 19:30",
+      "instructor": "Professor Enson",
+      "type": "ノーギ"
+    },
+    {
+      "academy": "Purebred Jiu-Jitsu Hawaii",
+      "name": "Competition Training",
+      "description": "Focused training for competition",
+      "day": "Wednesday",
+      "time": "19:00 - 20:30",
+      "instructor": "Professor Enson",
+      "type": "競技"
+    },
+    {
+      "academy": "Purebred Jiu-Jitsu Hawaii",
+      "name": "Women's Only",
+      "description": "Jiu-Jitsu class for women",
+      "day": "Thursday",
+      "time": "18:00 - 19:00",
+      "instructor": "Coach Yuki",
+      "type": "女性専用"
+    },
+    {
+      "academy": "Purebred Jiu-Jitsu Hawaii",
+      "name": "Open Mat",
+      "description": "Free rolling session for all levels",
+      "day": "Saturday",
+      "time": "10:00 - 12:00",
+      "instructor": "Professor Enson",
+      "type": "オープンマット"
+    }
+  ]
+}

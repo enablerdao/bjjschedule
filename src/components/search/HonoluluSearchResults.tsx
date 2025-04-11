@@ -114,7 +114,7 @@ export default function HonoluluSearchResults({ academies }: HonoluluSearchResul
                     )}
                   </div>
                   
-                  {Object.keys(academy.social_media).length > 0 && (
+                  {academy.social_media && Object.keys(academy.social_media).length > 0 && (
                     <div>
                       <h3 className="text-sm font-medium text-gray-500 uppercase tracking-wider mb-2">
                         {t('common:social_media')}
@@ -171,7 +171,7 @@ export default function HonoluluSearchResults({ academies }: HonoluluSearchResul
                             </thead>
                             <tbody className="bg-white divide-y divide-gray-200">
                               {classesByDay[day]
-                                .sort((a, b) => a.start_time.localeCompare(b.start_time))
+                                .sort((a, b) => a.start_time && b.start_time ? a.start_time.localeCompare(b.start_time) : 0)
                                 .map((cls, idx) => (
                                   <tr key={idx} className="hover:bg-gray-50">
                                     <td className="px-3 py-2 whitespace-nowrap text-sm text-gray-900">
