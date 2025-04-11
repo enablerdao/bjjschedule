@@ -7,7 +7,8 @@
     "build": "next build",
     "start": "next start -p ${PORT:-12000}",
     "lint": "next lint",
-    "deploy:render": "node scripts/deploy-render.js"
+    "deploy:render": "node scripts/deploy-render.js",
+    "deploy:fly": "flyctl deploy"
   },
   "dependencies": {
     "@react-google-maps/api": "^2.19.2",

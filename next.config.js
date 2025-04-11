@@ -7,6 +7,7 @@ const nextConfig = {
   images: {
     domains: ['localhost', 'supabase.io'],
   },
+  output: 'standalone',
   async headers() {
     return [
       {
