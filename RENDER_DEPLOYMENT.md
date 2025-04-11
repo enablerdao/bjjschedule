@@ -14,19 +14,30 @@ This guide provides step-by-step instructions for deploying the BJJ Schedule App
 
 ### Option 1: Automated Deployment (Recommended)
 
-We've included two scripts to automate the deployment process:
+We've included several scripts to automate the deployment process:
 
-1. **Using Blueprint (render.yaml)**:
+1. **Using Blueprint with Bash (render.yaml)**:
    ```bash
    ./deploy-to-render.sh
    ```
    This script uses the Render API to deploy your application using the `render.yaml` blueprint.
 
-2. **Creating a Service Directly**:
+2. **Creating a Service Directly with Bash**:
    ```bash
    ./create-render-service.sh
    ```
    This script creates a new web service on Render with all the necessary configuration.
+
+3. **Using Blueprint with Node.js**:
+   ```bash
+   node scripts/deploy-render.js
+   ```
+   This Node.js script also uses the Render API to deploy your application using the `render.yaml` blueprint.
+   
+   Note: You may need to install the dotenv package first:
+   ```bash
+   npm install dotenv
+   ```
 
 After running either script, check your Render dashboard to monitor the deployment progress.
 
