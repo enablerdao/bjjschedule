@@ -1,0 +1,621 @@
+{
+  "academies": [
+    {
+      "name": "Barra Hawaii",
+      "website": "https://www.barrahawaii.com",
+      "address": "1320 Kalani St, Honolulu, HI 96817",
+      "phone": "(808) 531-0222",
+      "email": "info@barrahawaii.com",
+      "description": "Barra Hawaii - The first Brazilian Jiu-Jitsu academy in Hawaii",
+      "logo_url": "",
+      "social_media": {
+        "facebook": "https://www.facebook.com/barrahawaii",
+        "instagram": "https://www.instagram.com/barrahawaii/"
+      },
+      "location": {
+        "latitude": 21.3252,
+        "longitude": -157.8702
+      }
+    },
+    {
+      "name": "Grappling Unlimited",
+      "website": "https://www.grapplingunlimited.com",
+      "address": "1726 Kapiolani Blvd, Honolulu, HI 96814",
+      "phone": "(808) 944-4269",
+      "email": "info@grapplingunlimited.com",
+      "description": "Grappling Unlimited - Hawaii's premier martial arts training facility",
+      "logo_url": "",
+      "social_media": {
+        "facebook": "https://www.facebook.com/grapplingunlimited",
+        "instagram": "https://www.instagram.com/grapplingunlimited/"
+      },
+      "location": {
+        "latitude": 21.2912,
+        "longitude": -157.8375
+      }
+    },
+    {
+      "name": "Sunset Jiu-Jitsu Hawaii",
+      "website": "https://www.sunsetjiujitsuhawaii.com",
+      "address": "66-437 Kamehameha Hwy, Haleiwa, HI 96712",
+      "phone": "(808) 637-2355",
+      "email": "info@sunsetjiujitsuhawaii.com",
+      "description": "Sunset Jiu-Jitsu Hawaii - North Shore's premier Brazilian Jiu-Jitsu academy",
+      "logo_url": "",
+      "social_media": {
+        "facebook": "https://www.facebook.com/sunsetjiujitsuhawaii",
+        "instagram": "https://www.instagram.com/sunsetjiujitsuhawaii/"
+      },
+      "location": {
+        "latitude": 21.5912,
+        "longitude": -158.1052
+      }
+    },
+    {
+      "name": "Maui Jiu-Jitsu Academy",
+      "website": "https://www.mauijiujitsu.com",
+      "address": "340 Hana Hwy, Kahului, HI 96732",
+      "phone": "(808) 871-2422",
+      "email": "info@mauijiujitsu.com",
+      "description": "Maui Jiu-Jitsu Academy - The Valley Isle's premier Brazilian Jiu-Jitsu training center",
+      "logo_url": "",
+      "social_media": {
+        "facebook": "https://www.facebook.com/mauijiujitsu",
+        "instagram": "https://www.instagram.com/mauijiujitsu/"
+      },
+      "location": {
+        "latitude": 20.8893,
+        "longitude": -156.4729
+      }
+    },
+    {
+      "name": "Kauai Jiu-Jitsu",
+      "website": "https://www.kauaijiujitsu.com",
+      "address": "4-1543 Kuhio Hwy, Kapaa, HI 96746",
+      "phone": "(808) 822-4232",
+      "email": "info@kauaijiujitsu.com",
+      "description": "Kauai Jiu-Jitsu - The Garden Isle's premier Brazilian Jiu-Jitsu academy",
+      "logo_url": "",
+      "social_media": {
+        "facebook": "https://www.facebook.com/kauaijiujitsu",
+        "instagram": "https://www.instagram.com/kauaijiujitsu/"
+      },
+      "location": {
+        "latitude": 22.0879,
+        "longitude": -159.3372
+      }
+    }
+  ],
+  "classes": [
+    {
+      "academy": "Barra Hawaii",
+      "name": "Fundamentals",
+      "description": "Basic techniques and positions for beginners",
+      "day_of_week": "Monday",
+      "start_time": "06:00",
+      "end_time": "07:00",
+      "class_type": "beginner",
+      "instructor": "Professor Rodrigo"
+    },
+    {
+      "academy": "Barra Hawaii",
+      "name": "Advanced",
+      "description": "Advanced techniques for experienced practitioners",
+      "day_of_week": "Monday",
+      "start_time": "12:00",
+      "end_time": "13:30",
+      "class_type": "advanced",
+      "instructor": "Professor Rodrigo"
+    },
+    {
+      "academy": "Barra Hawaii",
+      "name": "Kids Class",
+      "description": "Jiu-Jitsu for children ages 5-12",
+      "day_of_week": "Monday",
+      "start_time": "16:00",
+      "end_time": "17:00",
+      "class_type": "kids",
+      "instructor": "Coach Kai"
+    },
+    {
+      "academy": "Barra Hawaii",
+      "name": "No-Gi",
+      "description": "Grappling without the traditional gi",
+      "day_of_week": "Monday",
+      "start_time": "18:00",
+      "end_time": "19:30",
+      "class_type": "no_gi",
+      "instructor": "Professor Rodrigo"
+    },
+    {
+      "academy": "Barra Hawaii",
+      "name": "Fundamentals",
+      "description": "Basic techniques and positions for beginners",
+      "day_of_week": "Tuesday",
+      "start_time": "06:00",
+      "end_time": "07:00",
+      "class_type": "beginner",
+      "instructor": "Professor Rodrigo"
+    },
+    {
+      "academy": "Barra Hawaii",
+      "name": "All Levels",
+      "description": "Mixed level class for all belt ranks",
+      "day_of_week": "Tuesday",
+      "start_time": "12:00",
+      "end_time": "13:30",
+      "class_type": "all_levels",
+      "instructor": "Professor Rodrigo"
+    },
+    {
+      "academy": "Barra Hawaii",
+      "name": "Kids Class",
+      "description": "Jiu-Jitsu for children ages 5-12",
+      "day_of_week": "Tuesday",
+      "start_time": "16:00",
+      "end_time": "17:00",
+      "class_type": "kids",
+      "instructor": "Coach Kai"
+    },
+    {
+      "academy": "Barra Hawaii",
+      "name": "Competition Training",
+      "description": "Focused training for competition",
+      "day_of_week": "Tuesday",
+      "start_time": "18:00",
+      "end_time": "19:30",
+      "class_type": "competition",
+      "instructor": "Professor Rodrigo"
+    },
+    {
+      "academy": "Barra Hawaii",
+      "name": "Fundamentals",
+      "description": "Basic techniques and positions for beginners",
+      "day_of_week": "Wednesday",
+      "start_time": "06:00",
+      "end_time": "07:00",
+      "class_type": "beginner",
+      "instructor": "Professor Rodrigo"
+    },
+    {
+      "academy": "Barra Hawaii",
+      "name": "Advanced",
+      "description": "Advanced techniques for experienced practitioners",
+      "day_of_week": "Wednesday",
+      "start_time": "12:00",
+      "end_time": "13:30",
+      "class_type": "advanced",
+      "instructor": "Professor Rodrigo"
+    },
+    {
+      "academy": "Barra Hawaii",
+      "name": "Kids Class",
+      "description": "Jiu-Jitsu for children ages 5-12",
+      "day_of_week": "Wednesday",
+      "start_time": "16:00",
+      "end_time": "17:00",
+      "class_type": "kids",
+      "instructor": "Coach Kai"
+    },
+    {
+      "academy": "Barra Hawaii",
+      "name": "No-Gi",
+      "description": "Grappling without the traditional gi",
+      "day_of_week": "Wednesday",
+      "start_time": "18:00",
+      "end_time": "19:30",
+      "class_type": "no_gi",
+      "instructor": "Professor Rodrigo"
+    },
+    {
+      "academy": "Barra Hawaii",
+      "name": "Fundamentals",
+      "description": "Basic techniques and positions for beginners",
+      "day_of_week": "Thursday",
+      "start_time": "06:00",
+      "end_time": "07:00",
+      "class_type": "beginner",
+      "instructor": "Professor Rodrigo"
+    },
+    {
+      "academy": "Barra Hawaii",
+      "name": "All Levels",
+      "description": "Mixed level class for all belt ranks",
+      "day_of_week": "Thursday",
+      "start_time": "12:00",
+      "end_time": "13:30",
+      "class_type": "all_levels",
+      "instructor": "Professor Rodrigo"
+    },
+    {
+      "academy": "Barra Hawaii",
+      "name": "Kids Class",
+      "description": "Jiu-Jitsu for children ages 5-12",
+      "day_of_week": "Thursday",
+      "start_time": "16:00",
+      "end_time": "17:00",
+      "class_type": "kids",
+      "instructor": "Coach Kai"
+    },
+    {
+      "academy": "Barra Hawaii",
+      "name": "Competition Training",
+      "description": "Focused training for competition",
+      "day_of_week": "Thursday",
+      "start_time": "18:00",
+      "end_time": "19:30",
+      "class_type": "competition",
+      "instructor": "Professor Rodrigo"
+    },
+    {
+      "academy": "Barra Hawaii",
+      "name": "Fundamentals",
+      "description": "Basic techniques and positions for beginners",
+      "day_of_week": "Friday",
+      "start_time": "06:00",
+      "end_time": "07:00",
+      "class_type": "beginner",
+      "instructor": "Professor Rodrigo"
+    },
+    {
+      "academy": "Barra Hawaii",
+      "name": "Advanced",
+      "description": "Advanced techniques for experienced practitioners",
+      "day_of_week": "Friday",
+      "start_time": "12:00",
+      "end_time": "13:30",
+      "class_type": "advanced",
+      "instructor": "Professor Rodrigo"
+    },
+    {
+      "academy": "Barra Hawaii",
+      "name": "Kids Class",
+      "description": "Jiu-Jitsu for children ages 5-12",
+      "day_of_week": "Friday",
+      "start_time": "16:00",
+      "end_time": "17:00",
+      "class_type": "kids",
+      "instructor": "Coach Kai"
+    },
+    {
+      "academy": "Barra Hawaii",
+      "name": "Open Mat",
+      "description": "Free training session for all members",
+      "day_of_week": "Friday",
+      "start_time": "18:00",
+      "end_time": "19:30",
+      "class_type": "open_mat",
+      "instructor": "Professor Rodrigo"
+    },
+    {
+      "academy": "Barra Hawaii",
+      "name": "All Levels",
+      "description": "Mixed level class for all belt ranks",
+      "day_of_week": "Saturday",
+      "start_time": "10:00",
+      "end_time": "11:30",
+      "class_type": "all_levels",
+      "instructor": "Professor Rodrigo"
+    },
+    {
+      "academy": "Barra Hawaii",
+      "name": "Open Mat",
+      "description": "Free training session for all members",
+      "day_of_week": "Saturday",
+      "start_time": "11:30",
+      "end_time": "13:00",
+      "class_type": "open_mat",
+      "instructor": "Professor Rodrigo"
+    },
+    {
+      "academy": "Grappling Unlimited",
+      "name": "Morning Fundamentals",
+      "description": "Basic techniques for beginners",
+      "day_of_week": "Monday",
+      "start_time": "07:00",
+      "end_time": "08:00",
+      "class_type": "beginner",
+      "instructor": "Professor Jason"
+    },
+    {
+      "academy": "Grappling Unlimited",
+      "name": "Lunch Roll",
+      "description": "Open mat session during lunch hour",
+      "day_of_week": "Monday",
+      "start_time": "11:30",
+      "end_time": "13:00",
+      "class_type": "open_mat",
+      "instructor": "Professor Jason"
+    },
+    {
+      "academy": "Grappling Unlimited",
+      "name": "Kids Jiu-Jitsu",
+      "description": "Jiu-Jitsu for children ages 6-12",
+      "day_of_week": "Monday",
+      "start_time": "16:30",
+      "end_time": "17:30",
+      "class_type": "kids",
+      "instructor": "Coach Leilani"
+    },
+    {
+      "academy": "Grappling Unlimited",
+      "name": "Teens Jiu-Jitsu",
+      "description": "Jiu-Jitsu for teenagers ages 13-17",
+      "day_of_week": "Monday",
+      "start_time": "17:45",
+      "end_time": "18:45",
+      "class_type": "teens",
+      "instructor": "Coach Leilani"
+    },
+    {
+      "academy": "Grappling Unlimited",
+      "name": "Advanced Gi",
+      "description": "Advanced techniques in the gi",
+      "day_of_week": "Monday",
+      "start_time": "19:00",
+      "end_time": "20:30",
+      "class_type": "advanced",
+      "instructor": "Professor Jason"
+    },
+    {
+      "academy": "Grappling Unlimited",
+      "name": "No-Gi Fundamentals",
+      "description": "Basic no-gi techniques",
+      "day_of_week": "Tuesday",
+      "start_time": "07:00",
+      "end_time": "08:00",
+      "class_type": "no_gi",
+      "instructor": "Professor Jason"
+    },
+    {
+      "academy": "Grappling Unlimited",
+      "name": "Lunch Roll",
+      "description": "Open mat session during lunch hour",
+      "day_of_week": "Tuesday",
+      "start_time": "11:30",
+      "end_time": "13:00",
+      "class_type": "open_mat",
+      "instructor": "Professor Jason"
+    },
+    {
+      "academy": "Grappling Unlimited",
+      "name": "Kids Jiu-Jitsu",
+      "description": "Jiu-Jitsu for children ages 6-12",
+      "day_of_week": "Tuesday",
+      "start_time": "16:30",
+      "end_time": "17:30",
+      "class_type": "kids",
+      "instructor": "Coach Leilani"
+    },
+    {
+      "academy": "Grappling Unlimited",
+      "name": "Teens Jiu-Jitsu",
+      "description": "Jiu-Jitsu for teenagers ages 13-17",
+      "day_of_week": "Tuesday",
+      "start_time": "17:45",
+      "end_time": "18:45",
+      "class_type": "teens",
+      "instructor": "Coach Leilani"
+    },
+    {
+      "academy": "Grappling Unlimited",
+      "name": "Competition Training",
+      "description": "Focused training for competition",
+      "day_of_week": "Tuesday",
+      "start_time": "19:00",
+      "end_time": "20:30",
+      "class_type": "competition",
+      "instructor": "Professor Jason"
+    },
+    {
+      "academy": "Grappling Unlimited",
+      "name": "Morning Fundamentals",
+      "description": "Basic techniques for beginners",
+      "day_of_week": "Wednesday",
+      "start_time": "07:00",
+      "end_time": "08:00",
+      "class_type": "beginner",
+      "instructor": "Professor Jason"
+    },
+    {
+      "academy": "Grappling Unlimited",
+      "name": "Lunch Roll",
+      "description": "Open mat session during lunch hour",
+      "day_of_week": "Wednesday",
+      "start_time": "11:30",
+      "end_time": "13:00",
+      "class_type": "open_mat",
+      "instructor": "Professor Jason"
+    },
+    {
+      "academy": "Grappling Unlimited",
+      "name": "Kids Jiu-Jitsu",
+      "description": "Jiu-Jitsu for children ages 6-12",
+      "day_of_week": "Wednesday",
+      "start_time": "16:30",
+      "end_time": "17:30",
+      "class_type": "kids",
+      "instructor": "Coach Leilani"
+    },
+    {
+      "academy": "Grappling Unlimited",
+      "name": "Teens Jiu-Jitsu",
+      "description": "Jiu-Jitsu for teenagers ages 13-17",
+      "day_of_week": "Wednesday",
+      "start_time": "17:45",
+      "end_time": "18:45",
+      "class_type": "teens",
+      "instructor": "Coach Leilani"
+    },
+    {
+      "academy": "Grappling Unlimited",
+      "name": "Advanced No-Gi",
+      "description": "Advanced no-gi techniques",
+      "day_of_week": "Wednesday",
+      "start_time": "19:00",
+      "end_time": "20:30",
+      "class_type": "no_gi",
+      "instructor": "Professor Jason"
+    },
+    {
+      "academy": "Sunset Jiu-Jitsu Hawaii",
+      "name": "Morning Flow",
+      "description": "Technical flow-based training",
+      "day_of_week": "Monday",
+      "start_time": "07:30",
+      "end_time": "08:30",
+      "class_type": "all_levels",
+      "instructor": "Professor Kekoa"
+    },
+    {
+      "academy": "Sunset Jiu-Jitsu Hawaii",
+      "name": "Fundamentals",
+      "description": "Basic techniques for beginners",
+      "day_of_week": "Monday",
+      "start_time": "17:00",
+      "end_time": "18:00",
+      "class_type": "beginner",
+      "instructor": "Professor Kekoa"
+    },
+    {
+      "academy": "Sunset Jiu-Jitsu Hawaii",
+      "name": "Advanced",
+      "description": "Advanced techniques for experienced practitioners",
+      "day_of_week": "Monday",
+      "start_time": "18:15",
+      "end_time": "19:45",
+      "class_type": "advanced",
+      "instructor": "Professor Kekoa"
+    },
+    {
+      "academy": "Sunset Jiu-Jitsu Hawaii",
+      "name": "No-Gi",
+      "description": "Grappling without the traditional gi",
+      "day_of_week": "Tuesday",
+      "start_time": "07:30",
+      "end_time": "08:30",
+      "class_type": "no_gi",
+      "instructor": "Professor Kekoa"
+    },
+    {
+      "academy": "Sunset Jiu-Jitsu Hawaii",
+      "name": "Kids Class",
+      "description": "Jiu-Jitsu for children ages 5-12",
+      "day_of_week": "Tuesday",
+      "start_time": "16:00",
+      "end_time": "17:00",
+      "class_type": "kids",
+      "instructor": "Coach Nani"
+    },
+    {
+      "academy": "Sunset Jiu-Jitsu Hawaii",
+      "name": "All Levels",
+      "description": "Mixed level class for all belt ranks",
+      "day_of_week": "Tuesday",
+      "start_time": "17:15",
+      "end_time": "18:45",
+      "class_type": "all_levels",
+      "instructor": "Professor Kekoa"
+    },
+    {
+      "academy": "Sunset Jiu-Jitsu Hawaii",
+      "name": "Morning Flow",
+      "description": "Technical flow-based training",
+      "day_of_week": "Wednesday",
+      "start_time": "07:30",
+      "end_time": "08:30",
+      "class_type": "all_levels",
+      "instructor": "Professor Kekoa"
+    },
+    {
+      "academy": "Sunset Jiu-Jitsu Hawaii",
+      "name": "Fundamentals",
+      "description": "Basic techniques for beginners",
+      "day_of_week": "Wednesday",
+      "start_time": "17:00",
+      "end_time": "18:00",
+      "class_type": "beginner",
+      "instructor": "Professor Kekoa"
+    },
+    {
+      "academy": "Sunset Jiu-Jitsu Hawaii",
+      "name": "Advanced",
+      "description": "Advanced techniques for experienced practitioners",
+      "day_of_week": "Wednesday",
+      "start_time": "18:15",
+      "end_time": "19:45",
+      "class_type": "advanced",
+      "instructor": "Professor Kekoa"
+    },
+    {
+      "academy": "Sunset Jiu-Jitsu Hawaii",
+      "name": "No-Gi",
+      "description": "Grappling without the traditional gi",
+      "day_of_week": "Thursday",
+      "start_time": "07:30",
+      "end_time": "08:30",
+      "class_type": "no_gi",
+      "instructor": "Professor Kekoa"
+    },
+    {
+      "academy": "Sunset Jiu-Jitsu Hawaii",
+      "name": "Kids Class",
+      "description": "Jiu-Jitsu for children ages 5-12",
+      "day_of_week": "Thursday",
+      "start_time": "16:00",
+      "end_time": "17:00",
+      "class_type": "kids",
+      "instructor": "Coach Nani"
+    },
+    {
+      "academy": "Sunset Jiu-Jitsu Hawaii",
+      "name": "All Levels",
+      "description": "Mixed level class for all belt ranks",
+      "day_of_week": "Thursday",
+      "start_time": "17:15",
+      "end_time": "18:45",
+      "class_type": "all_levels",
+      "instructor": "Professor Kekoa"
+    },
+    {
+      "academy": "Sunset Jiu-Jitsu Hawaii",
+      "name": "Morning Flow",
+      "description": "Technical flow-based training",
+      "day_of_week": "Friday",
+      "start_time": "07:30",
+      "end_time": "08:30",
+      "class_type": "all_levels",
+      "instructor": "Professor Kekoa"
+    },
+    {
+      "academy": "Sunset Jiu-Jitsu Hawaii",
+      "name": "Open Mat",
+      "description": "Free training session for all members",
+      "day_of_week": "Friday",
+      "start_time": "17:00",
+      "end_time": "19:00",
+      "class_type": "open_mat",
+      "instructor": "Professor Kekoa"
+    },
+    {
+      "academy": "Sunset Jiu-Jitsu Hawaii",
+      "name": "All Levels",
+      "description": "Mixed level class for all belt ranks",
+      "day_of_week": "Saturday",
+      "start_time": "09:00",
+      "end_time": "10:30",
+      "class_type": "all_levels",
+      "instructor": "Professor Kekoa"
+    },
+    {
+      "academy": "Sunset Jiu-Jitsu Hawaii",
+      "name": "Open Mat",
+      "description": "Free training session for all members",
+      "day_of_week": "Saturday",
+      "start_time": "10:30",
+      "end_time": "12:00",
+      "class_type": "open_mat",
+      "instructor": "Professor Kekoa"
+    }
+  ]
+}

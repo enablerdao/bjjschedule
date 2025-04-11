@@ -3,7 +3,8 @@
     "title": "世界中の柔術クラスを検索",
     "subtitle": "世界中のBJJ道場を発見し、繋がりましょう。場所、時間、講師などで検索できます。",
     "searchButton": "クラスを検索",
-    "registerButton": "道場を登録"
+    "registerButton": "道場を登録",
+    "honoluluButton": "ホノルルの道場を見る"
   },
   "search": {
     "title": "クラス検索",
@@ -17,15 +18,27 @@
       "advanced": "上級",
       "nogi": "ノーギ",
       "kids": "キッズ",
-      "competition": "競技"
+      "competition": "競技",
+      "beginner": "初心者",
+      "intermediate": "中級者",
+      "women": "女性専用",
+      "open_mat": "オープンマット",
+      "kids_advanced": "キッズ上級",
+      "all_levels": "全レベル",
+      "teens": "ティーン",
+      "no_gi": "ノーギ"
     },
-    "searchButton": "検索"
+    "searchButton": "検索",
+    "resetButton": "リセット"
   },
   "featured": {
     "title": "注目の道場",
     "viewAllButton": "すべての道場を見る",
     "classesCount": "週{{count}}クラス",
-    "imagePlaceholder": "道場画像"
+    "imagePlaceholder": "道場画像",
+    "honoluluFeatured": "ホノルルの注目道場",
+    "viewSchedule": "スケジュールを見る",
+    "viewOnMap": "地図で見る"
   },
   "benefits": {
     "title": "BJJスケジュールを使う理由",
@@ -52,6 +65,27 @@
     "title": "今すぐグローバルBJJコミュニティに参加しよう",
     "subtitle": "世界中の道場とつながり、トレーニングセッションを見逃さないようにしましょう。",
     "primaryButton": "今すぐ登録",
-    "secondaryButton": "道場を登録"
+    "secondaryButton": "道場を登録",
+    "honoluluButton": "ホノルルの道場を探す"
+  },
+  "locations": {
+    "honolulu": {
+      "title": "ホノルル",
+      "description": "ハワイの美しい島で柔術を学ぼう",
+      "academyCount": "{{count}}道場",
+      "viewButton": "ホノルルの道場を見る"
+    },
+    "tokyo": {
+      "title": "東京",
+      "description": "日本の首都で柔術を体験",
+      "academyCount": "{{count}}道場",
+      "viewButton": "東京の道場を見る"
+    },
+    "rio": {
+      "title": "リオデジャネイロ",
+      "description": "柔術発祥の地で本場の技を学ぶ",
+      "academyCount": "{{count}}道場",
+      "viewButton": "リオの道場を見る"
+    }
   }
 }

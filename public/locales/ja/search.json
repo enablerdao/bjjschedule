@@ -13,7 +13,9 @@
     "academy": "道場",
     "academyPlaceholder": "道場名で検索",
     "dayOfWeek": "曜日",
-    "allDays": "すべての曜日"
+    "allDays": "すべての曜日",
+    "resetButton": "リセット",
+    "searchButton": "検索"
   },
   "classTypes": {
     "fundamentals": "基礎",
@@ -25,7 +27,10 @@
     "intermediate": "中級者",
     "women": "女性専用",
     "open_mat": "オープンマット",
-    "kids_advanced": "キッズ上級"
+    "kids_advanced": "キッズ上級",
+    "all_levels": "全レベル",
+    "teens": "ティーン",
+    "no_gi": "ノーギ"
   },
   "daysOfWeek": {
     "monday": "月曜日",
@@ -48,5 +53,26 @@
   "loading": "クラスを読み込み中...",
   "instructor": "講師",
   "mapViewPlaceholder": "地図表示は近日公開予定です",
-  "calendarViewPlaceholder": "カレンダー表示は近日公開予定です"
+  "calendarViewPlaceholder": "カレンダー表示は近日公開予定です",
+  "academyInfo": {
+    "address": "住所",
+    "phone": "電話番号",
+    "email": "メール",
+    "website": "ウェブサイト",
+    "classes": "クラス数",
+    "viewSchedule": "スケジュールを見る"
+  },
+  "classInfo": {
+    "time": "時間",
+    "type": "タイプ",
+    "description": "説明"
+  },
+  "honolulu": {
+    "title": "ホノルルの柔術道場",
+    "subtitle": "ハワイの美しい島で柔術を学ぼう",
+    "description": "ホノルルには世界クラスの柔術道場がたくさんあります。あなたのレベルや目標に合った道場を見つけましょう。",
+    "featuredAcademies": "注目の道場",
+    "allAcademies": "すべての道場",
+    "viewAll": "すべて表示"
+  }
 }
