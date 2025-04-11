@@ -1,4 +1,4 @@
-import { format, parseISO } from 'date-fns';
+import { format, parseISO, Locale } from 'date-fns';
 import { enUS, ja, pt, es } from 'date-fns/locale';
 
 // Map of locales

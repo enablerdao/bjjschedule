@@ -36,7 +36,7 @@ export default function Home() {
               </h2>
               
               <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
-                {t<any[]>('home:benefits.items', { returnObjects: true }).map((item, index) => (
+                {(t('home:benefits.items', { returnObjects: true }) as any[]).map((item, index) => (
                   <div key={index} className="text-center">
                     <div className="bg-bjj-blue/10 w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4">
                       <svg className="w-8 h-8 text-bjj-blue" fill="none" viewBox="0 0 24 24" stroke="currentColor">

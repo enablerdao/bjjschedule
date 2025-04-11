@@ -28,7 +28,7 @@ export default function About() {
                 <p className="text-gray-700 mb-4">{t('about:mission.description')}</p>
                 
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mt-8">
-                  {t<any[]>('about:mission.values', { returnObjects: true }).map((value, index) => (
+                  {(t('about:mission.values', { returnObjects: true }) as any[]).map((value, index) => (
                     <div key={index} className="text-center">
                       <div className="bg-bjj-blue/10 w-16 h-16 rounded-full flex items-center justify-center mx-auto mb-4">
                         <svg className="w-8 h-8 text-bjj-blue" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -55,13 +55,13 @@ export default function About() {
                 <p className="text-gray-700 mb-4">{t('about:story.description')}</p>
                 
                 <div className="mt-8 space-y-8">
-                  {t<any[]>('about:story.timeline', { returnObjects: true }).map((item, index) => (
+                  {(t('about:story.timeline', { returnObjects: true }) as any[]).map((item, index) => (
                     <div key={index} className="flex">
                       <div className="flex flex-col items-center mr-4">
                         <div className="bg-bjj-blue text-white rounded-full w-8 h-8 flex items-center justify-center font-bold">
                           {index + 1}
                         </div>
-                        {index < t<any[]>('about:story.timeline', { returnObjects: true }).length - 1 && (
+                        {index < (t('about:story.timeline', { returnObjects: true }) as any[]).length - 1 && (
                           <div className="h-full w-0.5 bg-bjj-blue/30 my-2"></div>
                         )}
                       </div>
@@ -79,7 +79,7 @@ export default function About() {
                 <p className="text-gray-700 mb-6">{t('about:team.description')}</p>
                 
                 <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-                  {t<any[]>('about:team.members', { returnObjects: true }).map((member, index) => (
+                  {(t('about:team.members', { returnObjects: true }) as any[]).map((member, index) => (
                     <div key={index} className="text-center">
                       <div className="bg-bjj-blue/20 w-24 h-24 rounded-full mx-auto mb-4 flex items-center justify-center">
                         <span className="text-white">{t('about:team.photoPlaceholder')}</span>

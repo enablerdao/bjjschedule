@@ -32,7 +32,10 @@ export default function SearchFilters({ initialFilters, onSearch }: SearchFilter
         
         if (countryError) throw countryError;
         
-        const uniqueCountries = [...new Set(countryData.map(item => item.country))];
+        // Use Array.filter to get unique countries instead of Set
+        const uniqueCountries = countryData
+          .map(item => item.country)
+          .filter((value, index, self) => self.indexOf(value) === index);
         setCountries(uniqueCountries);
         
         // Fetch cities based on selected country
@@ -46,7 +49,10 @@ export default function SearchFilters({ initialFilters, onSearch }: SearchFilter
           
           if (cityError) throw cityError;
           
-          const uniqueCities = [...new Set(cityData.map(item => item.city))];
+          // Use Array.filter to get unique cities instead of Set
+          const uniqueCities = cityData
+            .map(item => item.city)
+            .filter((value, index, self) => self.indexOf(value) === index);
           setCities(uniqueCities);
         }
         
