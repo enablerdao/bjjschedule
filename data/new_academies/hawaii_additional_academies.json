@@ -1,0 +1,259 @@
+{
+  "academies": [
+    {
+      "name": "Tako Jiu-Jitsu Academy",
+      "website": "https://www.takojiujitsu.com",
+      "address": "1050 Queen St #100, Honolulu, HI 96814",
+      "phone": "(808) 591-2468",
+      "email": "info@takojiujitsu.com",
+      "description": "Traditional Brazilian Jiu-Jitsu with a modern approach",
+      "logo_url": "",
+      "social_media": {
+        "facebook": "https://www.facebook.com/takojiujitsuacademy",
+        "instagram": "https://www.instagram.com/takojiujitsuacademy/"
+      },
+      "location": {
+        "latitude": 21.3006,
+        "longitude": -157.8516
+      }
+    },
+    {
+      "name": "HNL Jiu Jitsu Academy",
+      "website": "https://www.hnljiujitsu.com",
+      "address": "1130 N Nimitz Hwy #C-210, Honolulu, HI 96817",
+      "phone": "(808) 888-4343",
+      "email": "info@hnljiujitsu.com",
+      "description": "Honolulu's premier Brazilian Jiu-Jitsu training facility",
+      "logo_url": "",
+      "social_media": {
+        "facebook": "https://www.facebook.com/hnljiujitsu",
+        "instagram": "https://www.instagram.com/hnl_jiu_jitsu_academy/"
+      },
+      "location": {
+        "latitude": 21.3152,
+        "longitude": -157.8722
+      }
+    },
+    {
+      "name": "Ground Strike Fitness & Jiu Jitsu",
+      "website": "https://www.groundstrikefitness.com",
+      "address": "1450 Ala Moana Blvd #4250, Honolulu, HI 96814",
+      "phone": "(808) 591-9921",
+      "email": "info@groundstrikefitness.com",
+      "description": "Combining fitness and Brazilian Jiu-Jitsu for a complete training experience",
+      "logo_url": "",
+      "social_media": {
+        "facebook": "https://www.facebook.com/groundstrikefitness",
+        "instagram": "https://www.instagram.com/groundstrike_bjj/"
+      },
+      "location": {
+        "latitude": 21.2912,
+        "longitude": -157.8425
+      }
+    },
+    {
+      "name": "O2 Martial Arts Academy",
+      "website": "https://www.o2martialarts.com",
+      "address": "1750 Kalakaua Ave #103, Honolulu, HI 96826",
+      "phone": "(808) 944-5425",
+      "email": "info@o2martialarts.com",
+      "description": "Comprehensive martial arts training including Brazilian Jiu-Jitsu",
+      "logo_url": "",
+      "social_media": {
+        "facebook": "https://www.facebook.com/o2martialarts",
+        "instagram": "https://www.instagram.com/o2maa/"
+      },
+      "location": {
+        "latitude": 21.2901,
+        "longitude": -157.8312
+      }
+    },
+    {
+      "name": "The Mango Tree",
+      "website": "https://www.themangotreekaimuki.com",
+      "address": "3457 Waialae Ave, Honolulu, HI 96816",
+      "phone": "(808) 734-5437",
+      "email": "info@themangotreekaimuki.com",
+      "description": "Family-friendly Brazilian Jiu-Jitsu academy in Kaimuki",
+      "logo_url": "",
+      "social_media": {
+        "facebook": "https://www.facebook.com/themangotreekaimuki",
+        "instagram": "https://www.instagram.com/themangotree_kaimuki/"
+      },
+      "location": {
+        "latitude": 21.2812,
+        "longitude": -157.8012
+      }
+    },
+    {
+      "name": "Team Magrinho",
+      "website": "https://www.teammagrinho.com",
+      "address": "1125 S King St, Honolulu, HI 96814",
+      "phone": "(808) 591-2345",
+      "email": "info@teammagrinho.com",
+      "description": "Competition-focused Brazilian Jiu-Jitsu training",
+      "logo_url": "",
+      "social_media": {
+        "facebook": "https://www.facebook.com/teammagrinho",
+        "instagram": "https://www.instagram.com/bjjmagrinho/"
+      },
+      "location": {
+        "latitude": 21.2998,
+        "longitude": -157.8312
+      }
+    },
+    {
+      "name": "Kansept Academy",
+      "website": "https://www.kanseptacademy.com",
+      "address": "1088 Bishop St #1235, Honolulu, HI 96813",
+      "phone": "(808) 524-5437",
+      "email": "info@kanseptacademy.com",
+      "description": "Modern approach to Brazilian Jiu-Jitsu in downtown Honolulu",
+      "logo_url": "",
+      "social_media": {
+        "facebook": "https://www.facebook.com/kanseptacademy",
+        "instagram": "https://www.instagram.com/kansept_academy/"
+      },
+      "location": {
+        "latitude": 21.3082,
+        "longitude": -157.8612
+      }
+    },
+    {
+      "name": "Team Papakolea",
+      "website": "https://www.teampapakolea.com",
+      "address": "2150 Tantalus Dr, Honolulu, HI 96813",
+      "phone": "(808) 456-7890",
+      "email": "info@teampapakolea.com",
+      "description": "Community-focused Brazilian Jiu-Jitsu academy",
+      "logo_url": "",
+      "social_media": {
+        "facebook": "https://www.facebook.com/teampapakolea",
+        "instagram": "https://www.instagram.com/tpjjhnl/"
+      },
+      "location": {
+        "latitude": 21.3212,
+        "longitude": -157.8212
+      }
+    },
+    {
+      "name": "Purebred Jiu-Jitsu Hawaii",
+      "website": "https://www.purebredjiujitsu.com",
+      "address": "1212 Punahou St, Honolulu, HI 96826",
+      "phone": "(808) 738-2110",
+      "email": "info@purebredjiujitsu.com",
+      "description": "Affiliate of the world-renowned Purebred Jiu-Jitsu team",
+      "logo_url": "",
+      "social_media": {
+        "facebook": "https://www.facebook.com/purebredjiujitsuhawaii",
+        "instagram": "https://www.instagram.com/purebredjiujitsuhawaii/"
+      },
+      "location": {
+        "latitude": 21.2945,
+        "longitude": -157.8245
+      }
+    },
+    {
+      "name": "Hilo Academy Of Jiujitsu",
+      "website": "https://www.hilojj.com",
+      "address": "16-586 Old Volcano Rd, Keaau, HI 96749",
+      "phone": "(808) 966-7622",
+      "email": "info@hilojj.com",
+      "description": "Big Island's premier Brazilian Jiu-Jitsu academy",
+      "logo_url": "",
+      "social_media": {
+        "facebook": "https://www.facebook.com/hiloacademyofjiujitsu",
+        "instagram": "https://www.instagram.com/hiloacademyofjiujitsu/"
+      },
+      "location": {
+        "latitude": 19.6312,
+        "longitude": -155.0812
+      }
+    },
+    {
+      "name": "Kona BJJ",
+      "website": "https://www.konabjj.com",
+      "address": "74-5583 Luhia St, Kailua-Kona, HI 96740",
+      "phone": "(808) 329-2111",
+      "email": "info@konabjj.com",
+      "description": "Brazilian Jiu-Jitsu on the Kona coast of the Big Island",
+      "logo_url": "",
+      "social_media": {
+        "facebook": "https://www.facebook.com/konabjj",
+        "instagram": "https://www.instagram.com/konabjj/"
+      },
+      "location": {
+        "latitude": 19.6412,
+        "longitude": -156.0012
+      }
+    },
+    {
+      "name": "Waikoloa BJJ",
+      "website": "https://www.waikoloabjj.com",
+      "address": "68-1845 Waikoloa Rd, Waikoloa Village, HI 96738",
+      "phone": "(808) 883-8282",
+      "email": "info@waikoloabjj.com",
+      "description": "Brazilian Jiu-Jitsu in the Waikoloa resort area",
+      "logo_url": "",
+      "social_media": {
+        "facebook": "https://www.facebook.com/waikoloabjj",
+        "instagram": "https://www.instagram.com/waikoloabjj/"
+      },
+      "location": {
+        "latitude": 19.9412,
+        "longitude": -155.7912
+      }
+    },
+    {
+      "name": "Waianae Jiu-Jitsu Club",
+      "website": "https://www.waianaejj.com",
+      "address": "85-296 Farrington Hwy, Waianae, HI 96792",
+      "phone": "(808) 696-5425",
+      "email": "info@waianaejj.com",
+      "description": "Community-based Brazilian Jiu-Jitsu on Oahu's west side",
+      "logo_url": "",
+      "social_media": {
+        "facebook": "https://www.facebook.com/waianaejj",
+        "instagram": "https://www.instagram.com/waianaejj/"
+      },
+      "location": {
+        "latitude": 21.4512,
+        "longitude": -158.1812
+      }
+    },
+    {
+      "name": "Longman Jiu-Jitsu Poipu",
+      "website": "https://www.longmanjiujitsu.com",
+      "address": "2360 Kiahuna Plantation Dr, Koloa, HI 96756",
+      "phone": "(808) 742-8881",
+      "email": "info@longmanjiujitsu.com",
+      "description": "Brazilian Jiu-Jitsu in the Poipu area of Kauai",
+      "logo_url": "",
+      "social_media": {
+        "facebook": "https://www.facebook.com/longmanjiujitsu",
+        "instagram": "https://www.instagram.com/longmanjiujitsu/"
+      },
+      "location": {
+        "latitude": 21.8812,
+        "longitude": -159.4612
+      }
+    },
+    {
+      "name": "Esaki Jiu Jitsu Academy",
+      "website": "https://www.esakijiujitsu.com",
+      "address": "4480 Ahukini Rd, Lihue, HI 96766",
+      "phone": "(808) 245-7774",
+      "email": "info@esakijiujitsu.com",
+      "description": "Traditional Brazilian Jiu-Jitsu in Lihue, Kauai",
+      "logo_url": "",
+      "social_media": {
+        "facebook": "https://www.facebook.com/esakijiujitsu",
+        "instagram": "https://www.instagram.com/esakijiujitsu/"
+      },
+      "location": {
+        "latitude": 21.9812,
+        "longitude": -159.3612
+      }
+    }
+  ]
+}
