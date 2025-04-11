@@ -1,0 +1,48 @@
+{
+  "title": "道場詳細",
+  "notFound": "道場が見つかりません",
+  "notFoundMessage": "お探しの道場は存在しないか、削除されました。",
+  "findOtherAcademies": "他の道場を探す",
+  "tabs": {
+    "schedule": "スケジュール",
+    "instructors": "講師",
+    "about": "詳細",
+    "reviews": "レビュー"
+  },
+  "schedule": {
+    "title": "クラススケジュール",
+    "viewFullSchedule": "全スケジュールを見る",
+    "day": "曜日",
+    "time": "時間",
+    "class": "クラス",
+    "instructor": "講師",
+    "type": "種類"
+  },
+  "instructors": {
+    "title": "講師"
+  },
+  "about": {
+    "title": "詳細",
+    "description": "説明",
+    "contact": "連絡先",
+    "address": "住所",
+    "phone": "電話番号",
+    "email": "メールアドレス",
+    "website": "ウェブサイト",
+    "amenities": "設備"
+  },
+  "reviews": {
+    "title": "レビュー",
+    "writeReview": "レビューを書く",
+    "noReviews": "まだレビューがありません。最初のレビューを書いてみませんか？"
+  },
+  "classTypes": {
+    "fundamentals": "基礎",
+    "advanced": "上級",
+    "nogi": "ノーギ",
+    "kids": "キッズ",
+    "competition": "競技",
+    "openmat": "オープンマット",
+    "womensonly": "女性限定"
+  }
+}

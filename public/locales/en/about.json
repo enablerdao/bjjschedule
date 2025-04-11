@@ -1,0 +1,81 @@
+{
+  "title": "About BJJ Schedule",
+  "description": "Learn about our mission to connect the global Brazilian Jiu-Jitsu community through our class scheduling platform.",
+  "mission": {
+    "title": "Our Mission",
+    "description": "BJJ Schedule was created with a simple mission: to make Brazilian Jiu-Jitsu more accessible to everyone around the world. We believe that by providing a centralized platform for finding and managing BJJ classes, we can help practitioners stay consistent with their training, discover new academies while traveling, and connect with the global BJJ community.",
+    "values": [
+      {
+        "title": "Global Connection",
+        "description": "We aim to connect BJJ practitioners and academies worldwide, breaking down geographical barriers."
+      },
+      {
+        "title": "Community Building",
+        "description": "We foster a sense of community among BJJ practitioners, instructors, and academy owners."
+      },
+      {
+        "title": "Accessibility",
+        "description": "We make information about BJJ classes easily accessible to everyone, regardless of location or language."
+      }
+    ]
+  },
+  "story": {
+    "title": "Our Story",
+    "description": "BJJ Schedule was born out of a personal frustration experienced by our founder, a dedicated BJJ practitioner who frequently traveled for work. Finding local academies and their class schedules was always a challenge, often requiring extensive research across multiple websites, social media platforms, and phone calls. This experience highlighted the need for a centralized platform that would make this information readily available to the global BJJ community.",
+    "timeline": [
+      {
+        "title": "The Idea (2023)",
+        "description": "The concept for BJJ Schedule was born during a business trip when our founder struggled to find local BJJ classes."
+      },
+      {
+        "title": "Development Begins (2024)",
+        "description": "We assembled a team of BJJ enthusiasts with technical expertise to start building the platform."
+      },
+      {
+        "title": "Beta Launch (2024)",
+        "description": "We launched the beta version of BJJ Schedule with a select group of academies in major cities."
+      },
+      {
+        "title": "Global Expansion (2025)",
+        "description": "We expanded our platform to include academies worldwide and added support for multiple languages."
+      }
+    ]
+  },
+  "team": {
+    "title": "Our Team",
+    "description": "BJJ Schedule is built by a dedicated team of BJJ practitioners and technology enthusiasts who are passionate about connecting the global BJJ community.",
+    "photoPlaceholder": "Photo",
+    "members": [
+      {
+        "name": "Alex Silva",
+        "role": "Founder & CEO",
+        "bio": "Black belt with 10+ years of experience in BJJ and a background in software development."
+      },
+      {
+        "name": "Maria Tanaka",
+        "role": "Head of Operations",
+        "bio": "Purple belt and former competitive athlete with expertise in project management."
+      },
+      {
+        "name": "David Park",
+        "role": "Lead Developer",
+        "bio": "Blue belt and full-stack developer with a passion for creating user-friendly applications."
+      },
+      {
+        "name": "Sarah Johnson",
+        "role": "Community Manager",
+        "bio": "Brown belt and social media expert who manages our relationships with academies worldwide."
+      },
+      {
+        "name": "Carlos Mendez",
+        "role": "UX Designer",
+        "bio": "Purple belt with a background in user experience design and a focus on accessibility."
+      },
+      {
+        "name": "Aisha Patel",
+        "role": "Marketing Director",
+        "bio": "Blue belt with expertise in digital marketing and community building strategies."
+      }
+    ]
+  }
+}

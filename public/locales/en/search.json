@@ -1,0 +1,52 @@
+{
+  "title": "Find BJJ Classes",
+  "description": "Search for Brazilian Jiu-Jitsu classes by location, date, instructor, and more.",
+  "honolulu_title": "BJJ Classes in Honolulu",
+  "honolulu_description": "Find Brazilian Jiu-Jitsu classes in Honolulu, Hawaii. Search by academy, class type, and day of the week.",
+  "filters": {
+    "location": "Location",
+    "locationPlaceholder": "City, Region, or Country",
+    "date": "Date",
+    "classType": "Class Type",
+    "allTypes": "All Types",
+    "applyButton": "Apply Filters",
+    "academy": "Academy",
+    "academyPlaceholder": "Search by academy name",
+    "dayOfWeek": "Day of Week",
+    "allDays": "All Days"
+  },
+  "classTypes": {
+    "fundamentals": "Fundamentals",
+    "advanced": "Advanced",
+    "nogi": "No-Gi",
+    "kids": "Kids",
+    "competition": "Competition",
+    "beginner": "Beginner",
+    "intermediate": "Intermediate",
+    "women": "Women Only",
+    "open_mat": "Open Mat",
+    "kids_advanced": "Kids Advanced"
+  },
+  "daysOfWeek": {
+    "monday": "Monday",
+    "tuesday": "Tuesday",
+    "wednesday": "Wednesday",
+    "thursday": "Thursday",
+    "friday": "Friday",
+    "saturday": "Saturday",
+    "sunday": "Sunday"
+  },
+  "viewModes": {
+    "list": "List",
+    "map": "Map",
+    "calendar": "Calendar"
+  },
+  "resultsCount": "{{count}} classes found",
+  "noResults": "No classes found",
+  "noResultsMessage": "No classes match your search criteria. Try adjusting your filters.",
+  "noClassesAvailable": "No classes available for this academy",
+  "loading": "Loading classes...",
+  "instructor": "Instructor",
+  "mapViewPlaceholder": "Map view will be available soon",
+  "calendarViewPlaceholder": "Calendar view will be available soon"
+}

@@ -1,0 +1,74 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply text-bjj-black bg-white;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    @apply text-bjj-black;
+  }
+}
+
+@layer components {
+  .container {
+    @apply px-4 mx-auto;
+  }
+  
+  .card {
+    @apply bg-white rounded-lg shadow-md p-4;
+  }
+  
+  .btn {
+    @apply inline-block px-4 py-2 rounded-md font-medium transition-colors focus:outline-none focus:ring-2 focus:ring-offset-2;
+  }
+  
+  .btn-primary {
+    @apply btn bg-bjj-blue text-white hover:bg-bjj-blue-dark focus:ring-bjj-blue;
+  }
+  
+  .btn-secondary {
+    @apply btn bg-bjj-black text-white hover:bg-bjj-black/90 focus:ring-bjj-black;
+  }
+  
+  .btn-accent {
+    @apply btn bg-bjj-gold text-white hover:bg-bjj-gold/90 focus:ring-bjj-gold;
+  }
+  
+  .btn-outline {
+    @apply btn border border-bjj-blue text-bjj-blue hover:bg-bjj-blue hover:text-white focus:ring-bjj-blue;
+  }
+  
+  .form-input {
+    @apply w-full px-3 py-2 border border-gray-300 rounded-md focus:ring-bjj-blue focus:border-bjj-blue;
+  }
+  
+  .form-label {
+    @apply block text-sm font-medium text-gray-700 mb-1;
+  }
+}
+
+@layer base {
+  html {
+    @apply font-sans;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-bold text-bjj-black;
+  }
+  
+  h1 {
+    @apply text-3xl md:text-4xl;
+  }
+  
+  h2 {
+    @apply text-2xl md:text-3xl;
+  }
+  
+  h3 {
+    @apply text-xl md:text-2xl;
+  }
+}
+

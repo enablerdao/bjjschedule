@@ -1,0 +1,48 @@
+{
+  "title": "Academy Details",
+  "notFound": "Academy Not Found",
+  "notFoundMessage": "The academy you are looking for does not exist or has been removed.",
+  "findOtherAcademies": "Find Other Academies",
+  "tabs": {
+    "schedule": "Schedule",
+    "instructors": "Instructors",
+    "about": "About",
+    "reviews": "Reviews"
+  },
+  "schedule": {
+    "title": "Class Schedule",
+    "viewFullSchedule": "View Full Schedule",
+    "day": "Day",
+    "time": "Time",
+    "class": "Class",
+    "instructor": "Instructor",
+    "type": "Type"
+  },
+  "instructors": {
+    "title": "Instructors"
+  },
+  "about": {
+    "title": "About",
+    "description": "Description",
+    "contact": "Contact Information",
+    "address": "Address",
+    "phone": "Phone",
+    "email": "Email",
+    "website": "Website",
+    "amenities": "Amenities"
+  },
+  "reviews": {
+    "title": "Reviews",
+    "writeReview": "Write a Review",
+    "noReviews": "No reviews yet. Be the first to review this academy!"
+  },
+  "classTypes": {
+    "fundamentals": "Fundamentals",
+    "advanced": "Advanced",
+    "nogi": "No-Gi",
+    "kids": "Kids",
+    "competition": "Competition",
+    "openmat": "Open Mat",
+    "womensonly": "Women's Only"
+  }
+}

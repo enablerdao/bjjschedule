@@ -1,0 +1,52 @@
+{
+  "title": "柔術クラスを検索",
+  "description": "場所、日付、講師などでブラジリアン柔術クラスを検索します。",
+  "honolulu_title": "ホノルルの柔術クラス",
+  "honolulu_description": "ハワイ・ホノルルのブラジリアン柔術クラスを検索します。道場、クラスタイプ、曜日で検索できます。",
+  "filters": {
+    "location": "場所",
+    "locationPlaceholder": "都市、地域、または国",
+    "date": "日付",
+    "classType": "クラスタイプ",
+    "allTypes": "すべてのタイプ",
+    "applyButton": "フィルターを適用",
+    "academy": "道場",
+    "academyPlaceholder": "道場名で検索",
+    "dayOfWeek": "曜日",
+    "allDays": "すべての曜日"
+  },
+  "classTypes": {
+    "fundamentals": "基礎",
+    "advanced": "上級",
+    "nogi": "ノーギ",
+    "kids": "キッズ",
+    "competition": "競技",
+    "beginner": "初心者",
+    "intermediate": "中級者",
+    "women": "女性専用",
+    "open_mat": "オープンマット",
+    "kids_advanced": "キッズ上級"
+  },
+  "daysOfWeek": {
+    "monday": "月曜日",
+    "tuesday": "火曜日",
+    "wednesday": "水曜日",
+    "thursday": "木曜日",
+    "friday": "金曜日",
+    "saturday": "土曜日",
+    "sunday": "日曜日"
+  },
+  "viewModes": {
+    "list": "リスト",
+    "map": "地図",
+    "calendar": "カレンダー"
+  },
+  "resultsCount": "{{count}}クラスが見つかりました",
+  "noResults": "クラスが見つかりません",
+  "noResultsMessage": "検索条件に一致するクラスがありません。フィルターを調整してみてください。",
+  "noClassesAvailable": "この道場のクラス情報はまだありません",
+  "loading": "クラスを読み込み中...",
+  "instructor": "講師",
+  "mapViewPlaceholder": "地図表示は近日公開予定です",
+  "calendarViewPlaceholder": "カレンダー表示は近日公開予定です"
+}

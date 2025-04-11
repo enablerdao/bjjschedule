@@ -1,0 +1,41 @@
+{
+  "title": "柔術道場",
+  "description": "世界中のブラジリアン柔術道場を発見。クラス、講師などの情報を見つけることができます。",
+  "searchPlaceholder": "道場を検索...",
+  "registerButton": "道場を登録",
+  "classesCount": "週{{count}}クラス",
+  "imagePlaceholder": "道場画像",
+  "noResults": "検索に一致する道場が見つかりません。",
+  "viewScheduleButton": "スケジュールを見る",
+  "contactButton": "連絡する",
+  "details": {
+    "about": "概要",
+    "schedule": "スケジュール",
+    "instructors": "講師",
+    "reviews": "レビュー",
+    "location": "場所",
+    "contact": "連絡先",
+    "website": "ウェブサイト",
+    "phone": "電話番号",
+    "email": "メールアドレス",
+    "address": "住所",
+    "hours": "営業時間",
+    "amenities": "設備",
+    "pricing": "料金"
+  },
+  "register": {
+    "title": "道場を登録する",
+    "subtitle": "世界的なBJJ道場ネットワークに参加し、より多くの生徒にリーチしましょう。",
+    "nameLabel": "道場名",
+    "locationLabel": "場所",
+    "descriptionLabel": "説明",
+    "websiteLabel": "ウェブサイト",
+    "phoneLabel": "電話番号",
+    "emailLabel": "メールアドレス",
+    "addressLabel": "住所",
+    "logoLabel": "道場ロゴ",
+    "imagesLabel": "道場画像",
+    "submitButton": "道場を登録",
+    "successMessage": "道場が正常に登録されました。私たちのチームがあなたの情報を確認し、すぐに連絡します。"
+  }
+}

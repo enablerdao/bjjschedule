@@ -1,0 +1,96 @@
+{
+  "app": {
+    "name": "BJJ Schedule",
+    "title": "BJJ Schedule",
+    "tagline": "Find Jiu-Jitsu Classes Worldwide",
+    "description": "Discover and explore Brazilian Jiu-Jitsu classes around the world. Search by location, time, instructor, and more."
+  },
+  "site_name": "BJJ Schedule",
+  "nav": {
+    "home": "Home",
+    "search": "Find Classes",
+    "academies": "Academies",
+    "about": "About",
+    "contact": "Contact",
+    "login": "Log In",
+    "signup": "Sign Up"
+  },
+  "footer": {
+    "description": "BJJ Schedule helps you find Brazilian Jiu-Jitsu classes worldwide. Whether you're traveling or looking for a new academy, we've got you covered.",
+    "navigation": "Navigation",
+    "legal": "Legal",
+    "connect": "Connect",
+    "terms": "Terms of Service",
+    "privacy": "Privacy Policy",
+    "cookies": "Cookie Policy",
+    "rights": "All rights reserved."
+  },
+  "auth": {
+    "email": "Email",
+    "password": "Password",
+    "login": "Log In",
+    "signup": "Sign Up",
+    "forgotPassword": "Forgot Password?",
+    "resetPassword": "Reset Password",
+    "backToLogin": "Back to Login",
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Already have an account?",
+    "createAccount": "Create Account",
+    "loginNow": "Log In Now",
+    "verificationSent": "Verification email sent. Please check your inbox and follow the instructions to verify your account.",
+    "resetPasswordSent": "Password reset email sent. Please check your inbox and follow the instructions to reset your password.",
+    "loginDescription": "Log in to your BJJ Schedule account to manage your favorite academies and classes.",
+    "signupDescription": "Create a BJJ Schedule account to save your favorite academies, get notifications, and more."
+  },
+  "errors": {
+    "required": "This field is required",
+    "invalidEmail": "Please enter a valid email address",
+    "passwordLength": "Password must be at least 8 characters",
+    "somethingWrong": "Something went wrong. Please try again."
+  },
+  "loading": "Loading...",
+  "success": "Success!",
+  "upload": "Upload a file",
+  "dragAndDrop": "or drag and drop",
+  "coming_soon": "Coming Soon",
+  "academies": "Academies",
+  "class_schedule": "Class Schedule",
+  "contact_info": "Contact Information",
+  "social_media": "Social Media",
+  "time": "Time",
+  "class": "Class",
+  "instructor": "Instructor",
+  "type": "Type",
+  "lat": "Latitude",
+  "lng": "Longitude",
+  "notFound": {
+    "title": "Page Not Found",
+    "description": "The page you are looking for does not exist.",
+    "message": "The page you are looking for might have been removed, had its name changed, or is temporarily unavailable.",
+    "homeButton": "Go to Homepage",
+    "searchButton": "Search for Classes"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "description": "Get in touch with the BJJ Schedule team. We're here to help with any questions or feedback.",
+    "nameLabel": "Your Name",
+    "emailLabel": "Email Address",
+    "subjectLabel": "Subject",
+    "messageLabel": "Message",
+    "submitButton": "Send Message",
+    "selectSubject": "Select a subject",
+    "subjects": {
+      "general": "General Inquiry",
+      "academy": "Academy Registration",
+      "technical": "Technical Support",
+      "partnership": "Partnership Opportunity",
+      "other": "Other"
+    },
+    "thankYou": "Thank You!",
+    "successMessage": "Your message has been sent successfully. We'll get back to you as soon as possible.",
+    "sendAnother": "Send Another Message",
+    "email": "Email",
+    "phone": "Phone",
+    "location": "Location"
+  }
+}

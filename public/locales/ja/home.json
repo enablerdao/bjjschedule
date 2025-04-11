@@ -1,0 +1,57 @@
+{
+  "hero": {
+    "title": "世界中の柔術クラスを検索",
+    "subtitle": "世界中のBJJ道場を発見し、繋がりましょう。場所、時間、講師などで検索できます。",
+    "searchButton": "クラスを検索",
+    "registerButton": "道場を登録"
+  },
+  "search": {
+    "title": "クラス検索",
+    "locationLabel": "場所",
+    "locationPlaceholder": "都市、地域、または国",
+    "dateLabel": "日付",
+    "classTypeLabel": "クラスタイプ",
+    "allClasses": "すべてのクラス",
+    "classTypes": {
+      "fundamentals": "基礎",
+      "advanced": "上級",
+      "nogi": "ノーギ",
+      "kids": "キッズ",
+      "competition": "競技"
+    },
+    "searchButton": "検索"
+  },
+  "featured": {
+    "title": "注目の道場",
+    "viewAllButton": "すべての道場を見る",
+    "classesCount": "週{{count}}クラス",
+    "imagePlaceholder": "道場画像"
+  },
+  "benefits": {
+    "title": "BJJスケジュールを使う理由",
+    "items": [
+      {
+        "title": "どこでもクラスを見つける",
+        "description": "旅行中でも新しい道場を探していても、あなたのスケジュールに合ったクラスを簡単に見つけられます。"
+      },
+      {
+        "title": "最新情報を入手",
+        "description": "お気に入りの道場のスケジュール変更、特別イベント、新しいクラスについての通知を受け取れます。"
+      },
+      {
+        "title": "コミュニティとつながる",
+        "description": "世界的なBJJコミュニティを発見し、世界中の練習者とつながりましょう。"
+      },
+      {
+        "title": "スケジュールを管理",
+        "description": "クラスをカレンダーと同期させて、トレーニングセッションを見逃しません。"
+      }
+    ]
+  },
+  "cta": {
+    "title": "今すぐグローバルBJJコミュニティに参加しよう",
+    "subtitle": "世界中の道場とつながり、トレーニングセッションを見逃さないようにしましょう。",
+    "primaryButton": "今すぐ登録",
+    "secondaryButton": "道場を登録"
+  }
+}

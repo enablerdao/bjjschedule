@@ -1,0 +1,37 @@
+{
+  "title": "クラス詳細",
+  "notFound": "クラスが見つかりません",
+  "notFoundMessage": "お探しのクラスは存在しないか、削除されました。",
+  "findOtherClasses": "他のクラスを探す",
+  "instructor": "講師",
+  "schedule": "スケジュール",
+  "nextClass": "次回のクラス",
+  "recurringSchedule": "定期スケジュール",
+  "recurrencePatterns": {
+    "daily": "毎日",
+    "weekly": "毎週",
+    "biweekly": "隔週",
+    "monthly": "毎月"
+  },
+  "about": "このクラスについて",
+  "requirements": "参加条件",
+  "price": "料金",
+  "availability": "空き状況",
+  "spots": "名",
+  "spotsLeft": "名の空きあり",
+  "bookNow": "今すぐ予約",
+  "addToCalendar": "カレンダーに追加",
+  "saveToFavorites": "お気に入りに保存",
+  "location": "場所",
+  "mapPlaceholder": "ここに地図が表示されます",
+  "viewAcademy": "道場を見る",
+  "classTypes": {
+    "fundamentals": "基礎",
+    "advanced": "上級",
+    "nogi": "ノーギ",
+    "kids": "キッズ",
+    "competition": "競技",
+    "openmat": "オープンマット",
+    "womensonly": "女性限定"
+  }
+}

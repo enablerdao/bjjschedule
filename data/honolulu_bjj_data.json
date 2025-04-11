@@ -1,0 +1,735 @@
+{
+  "academies": [
+    {
+      "name": "Relson Gracie Jiu-Jitsu Team HK",
+      "website": "https://www.graciehonolulu.com",
+      "address": "1712 S. King Street 2nd Fl #200, Honolulu, HI 96826",
+      "phone": "(808) 277-1128",
+      "email": "info@graciehonolulu.com",
+      "description": "Hawaii's Premier Jiu-Jitsu Academy of Self-Defense",
+      "logo_url": "",
+      "social_media": {
+        "facebook": "https://www.facebook.com/relsongracieteamhk",
+        "instagram": "https://www.instagram.com/relsongraciejiujitsuteamhk/",
+        "yelp": "https://www.yelp.com/biz/relson-gracie-jiu-jitsu-team-hk-martial-arts-honolulu"
+      },
+      "location": {
+        "latitude": 21.2968,
+        "longitude": -157.8281
+      }
+    },
+    {
+      "name": "Island Jiu-Jitsu",
+      "website": "https://www.islandjiujitsu.com",
+      "address": "1414 Dillingham Blvd #207, Honolulu, HI 96817",
+      "phone": "(808) 888-4932",
+      "email": "info@islandjiujitsu.com",
+      "description": "Island Jiu-Jitsu Academy - Training champions since 2010",
+      "logo_url": "",
+      "social_media": {
+        "facebook": "https://www.facebook.com/islandjiujitsu",
+        "instagram": "https://www.instagram.com/islandjiujitsu/"
+      },
+      "location": {
+        "latitude": 21.3307,
+        "longitude": -157.8724
+      }
+    },
+    {
+      "name": "Gracie Barra Honolulu",
+      "website": "https://graciebarra.com/honolulu-hi/",
+      "address": "1050 Queen St, Honolulu, HI 96814",
+      "phone": "(808) 221-4752",
+      "email": "honolulu@graciebarra.com",
+      "description": "Gracie Barra Honolulu - For everyone, from beginners to champions",
+      "logo_url": "",
+      "social_media": {
+        "facebook": "https://www.facebook.com/GracieBarraHonolulu",
+        "instagram": "https://www.instagram.com/graciebarrahonolulu/"
+      },
+      "location": {
+        "latitude": 21.3006,
+        "longitude": -157.8516
+      }
+    },
+    {
+      "name": "Atos Jiu-Jitsu Hawaii",
+      "website": "https://www.atoshawaii.com",
+      "address": "1150 S King St #203, Honolulu, HI 96814",
+      "phone": "(808) 425-9267",
+      "email": "info@atoshawaii.com",
+      "description": "Atos Jiu-Jitsu Hawaii - World class training in the heart of Honolulu",
+      "logo_url": "",
+      "social_media": {
+        "facebook": "https://www.facebook.com/atoshawaii",
+        "instagram": "https://www.instagram.com/atoshawaii/"
+      },
+      "location": {
+        "latitude": 21.2998,
+        "longitude": -157.8312
+      }
+    }
+  ],
+  "classes": [
+    {
+      "academy": "Relson Gracie Jiu-Jitsu Team HK",
+      "name": "Gracie Fundamentals",
+      "description": "Sport/Self-Defense Beginner Program",
+      "day_of_week": "Monday",
+      "start_time": "11:00",
+      "end_time": "12:00",
+      "class_type": "beginner",
+      "instructor": "Team HK Instructor"
+    },
+    {
+      "academy": "Relson Gracie Jiu-Jitsu Team HK",
+      "name": "Master Cycle",
+      "description": "Intermediate-Advanced Program",
+      "day_of_week": "Monday",
+      "start_time": "12:00",
+      "end_time": "13:30",
+      "class_type": "advanced",
+      "instructor": "Team HK Instructor"
+    },
+    {
+      "academy": "Relson Gracie Jiu-Jitsu Team HK",
+      "name": "Kid's Bullyproof (ages 4-7)",
+      "description": "Beginner Program for Kids Ages 4-7",
+      "day_of_week": "Monday",
+      "start_time": "16:00",
+      "end_time": "16:50",
+      "class_type": "kids",
+      "instructor": "Team HK Instructor"
+    },
+    {
+      "academy": "Relson Gracie Jiu-Jitsu Team HK",
+      "name": "Kid's Bullyproof (ages 8-13)",
+      "description": "Beginner Program for Kids Ages 8-13",
+      "day_of_week": "Monday",
+      "start_time": "17:00",
+      "end_time": "17:50",
+      "class_type": "kids",
+      "instructor": "Team HK Instructor"
+    },
+    {
+      "academy": "Relson Gracie Jiu-Jitsu Team HK",
+      "name": "Women Empowered Self-Defense",
+      "description": "Women Only Beginner Program",
+      "day_of_week": "Monday",
+      "start_time": "18:00",
+      "end_time": "19:00",
+      "class_type": "women",
+      "instructor": "Team HK Instructor"
+    },
+    {
+      "academy": "Relson Gracie Jiu-Jitsu Team HK",
+      "name": "Gracie Fundamentals",
+      "description": "Sport/Self-Defense Beginner Program",
+      "day_of_week": "Monday",
+      "start_time": "18:00",
+      "end_time": "19:00",
+      "class_type": "beginner",
+      "instructor": "Team HK Instructor"
+    },
+    {
+      "academy": "Relson Gracie Jiu-Jitsu Team HK",
+      "name": "Master Cycle",
+      "description": "Intermediate-Advanced Program",
+      "day_of_week": "Monday",
+      "start_time": "19:00",
+      "end_time": "20:30",
+      "class_type": "advanced",
+      "instructor": "Team HK Instructor"
+    },
+    {
+      "academy": "Relson Gracie Jiu-Jitsu Team HK",
+      "name": "Gracie Combatives",
+      "description": "Self-Defense Beginner Program",
+      "day_of_week": "Tuesday",
+      "start_time": "11:00",
+      "end_time": "12:00",
+      "class_type": "beginner",
+      "instructor": "Team HK Instructor"
+    },
+    {
+      "academy": "Relson Gracie Jiu-Jitsu Team HK",
+      "name": "Master Cycle (Old School)",
+      "description": "Intermediate-Advanced Program",
+      "day_of_week": "Tuesday",
+      "start_time": "12:00",
+      "end_time": "13:30",
+      "class_type": "advanced",
+      "instructor": "Team HK Instructor"
+    },
+    {
+      "academy": "Relson Gracie Jiu-Jitsu Team HK",
+      "name": "Kid's Bullyproof (ages 4-7)",
+      "description": "Beginner Program for Kids Ages 4-7",
+      "day_of_week": "Tuesday",
+      "start_time": "16:00",
+      "end_time": "16:50",
+      "class_type": "kids",
+      "instructor": "Team HK Instructor"
+    },
+    {
+      "academy": "Relson Gracie Jiu-Jitsu Team HK",
+      "name": "Kid's Bullyproof (ages 8-13)",
+      "description": "Beginner Program for Kids Ages 8-13",
+      "day_of_week": "Tuesday",
+      "start_time": "17:00",
+      "end_time": "17:50",
+      "class_type": "kids",
+      "instructor": "Team HK Instructor"
+    },
+    {
+      "academy": "Relson Gracie Jiu-Jitsu Team HK",
+      "name": "Kid's Black Belt Club",
+      "description": "Intermediate-Advanced Program for Kids (Invite Only)",
+      "day_of_week": "Tuesday",
+      "start_time": "18:00",
+      "end_time": "18:30",
+      "class_type": "kids_advanced",
+      "instructor": "Team HK Instructor"
+    },
+    {
+      "academy": "Relson Gracie Jiu-Jitsu Team HK",
+      "name": "Gracie Combatives",
+      "description": "Self-Defense Beginner Program",
+      "day_of_week": "Tuesday",
+      "start_time": "18:00",
+      "end_time": "19:00",
+      "class_type": "beginner",
+      "instructor": "Team HK Instructor"
+    },
+    {
+      "academy": "Relson Gracie Jiu-Jitsu Team HK",
+      "name": "Master Cycle (Old School)",
+      "description": "Intermediate-Advanced Program",
+      "day_of_week": "Tuesday",
+      "start_time": "19:00",
+      "end_time": "20:30",
+      "class_type": "advanced",
+      "instructor": "Team HK Instructor"
+    },
+    {
+      "academy": "Relson Gracie Jiu-Jitsu Team HK",
+      "name": "Gracie Fundamentals",
+      "description": "Sport/Self-Defense Beginner Program",
+      "day_of_week": "Wednesday",
+      "start_time": "11:00",
+      "end_time": "12:00",
+      "class_type": "beginner",
+      "instructor": "Team HK Instructor"
+    },
+    {
+      "academy": "Relson Gracie Jiu-Jitsu Team HK",
+      "name": "Master Cycle",
+      "description": "Intermediate-Advanced Program",
+      "day_of_week": "Wednesday",
+      "start_time": "12:00",
+      "end_time": "13:30",
+      "class_type": "advanced",
+      "instructor": "Team HK Instructor"
+    },
+    {
+      "academy": "Relson Gracie Jiu-Jitsu Team HK",
+      "name": "Kid's Bullyproof (ages 4-7)",
+      "description": "Beginner Program for Kids Ages 4-7",
+      "day_of_week": "Wednesday",
+      "start_time": "16:00",
+      "end_time": "16:50",
+      "class_type": "kids",
+      "instructor": "Team HK Instructor"
+    },
+    {
+      "academy": "Relson Gracie Jiu-Jitsu Team HK",
+      "name": "Kid's Bullyproof (ages 8-13)",
+      "description": "Beginner Program for Kids Ages 8-13",
+      "day_of_week": "Wednesday",
+      "start_time": "17:00",
+      "end_time": "17:50",
+      "class_type": "kids",
+      "instructor": "Team HK Instructor"
+    },
+    {
+      "academy": "Relson Gracie Jiu-Jitsu Team HK",
+      "name": "Women Empowered Self-Defense",
+      "description": "Women Only Beginner Program",
+      "day_of_week": "Wednesday",
+      "start_time": "18:00",
+      "end_time": "19:00",
+      "class_type": "women",
+      "instructor": "Team HK Instructor"
+    },
+    {
+      "academy": "Relson Gracie Jiu-Jitsu Team HK",
+      "name": "Gracie Fundamentals",
+      "description": "Sport/Self-Defense Beginner Program",
+      "day_of_week": "Wednesday",
+      "start_time": "18:00",
+      "end_time": "19:00",
+      "class_type": "beginner",
+      "instructor": "Team HK Instructor"
+    },
+    {
+      "academy": "Relson Gracie Jiu-Jitsu Team HK",
+      "name": "Master Cycle",
+      "description": "Intermediate-Advanced Program",
+      "day_of_week": "Wednesday",
+      "start_time": "19:00",
+      "end_time": "20:30",
+      "class_type": "advanced",
+      "instructor": "Team HK Instructor"
+    },
+    {
+      "academy": "Relson Gracie Jiu-Jitsu Team HK",
+      "name": "Gracie Combatives",
+      "description": "Self-Defense Beginner Program",
+      "day_of_week": "Thursday",
+      "start_time": "11:00",
+      "end_time": "12:00",
+      "class_type": "beginner",
+      "instructor": "Team HK Instructor"
+    },
+    {
+      "academy": "Relson Gracie Jiu-Jitsu Team HK",
+      "name": "Master Cycle (Old School)",
+      "description": "Intermediate-Advanced Program",
+      "day_of_week": "Thursday",
+      "start_time": "12:00",
+      "end_time": "13:30",
+      "class_type": "advanced",
+      "instructor": "Team HK Instructor"
+    },
+    {
+      "academy": "Relson Gracie Jiu-Jitsu Team HK",
+      "name": "Kid's Bullyproof (ages 4-7)",
+      "description": "Beginner Program for Kids Ages 4-7",
+      "day_of_week": "Thursday",
+      "start_time": "16:00",
+      "end_time": "16:50",
+      "class_type": "kids",
+      "instructor": "Team HK Instructor"
+    },
+    {
+      "academy": "Relson Gracie Jiu-Jitsu Team HK",
+      "name": "Kid's Bullyproof (ages 8-13)",
+      "description": "Beginner Program for Kids Ages 8-13",
+      "day_of_week": "Thursday",
+      "start_time": "17:00",
+      "end_time": "17:50",
+      "class_type": "kids",
+      "instructor": "Team HK Instructor"
+    },
+    {
+      "academy": "Relson Gracie Jiu-Jitsu Team HK",
+      "name": "Kid's Black Belt Club",
+      "description": "Intermediate-Advanced Program for Kids (Invite Only)",
+      "day_of_week": "Thursday",
+      "start_time": "18:00",
+      "end_time": "18:30",
+      "class_type": "kids_advanced",
+      "instructor": "Team HK Instructor"
+    },
+    {
+      "academy": "Relson Gracie Jiu-Jitsu Team HK",
+      "name": "Gracie Combatives",
+      "description": "Self-Defense Beginner Program",
+      "day_of_week": "Thursday",
+      "start_time": "18:00",
+      "end_time": "19:00",
+      "class_type": "beginner",
+      "instructor": "Team HK Instructor"
+    },
+    {
+      "academy": "Relson Gracie Jiu-Jitsu Team HK",
+      "name": "Master Cycle (Old School)",
+      "description": "Intermediate-Advanced Program",
+      "day_of_week": "Thursday",
+      "start_time": "19:00",
+      "end_time": "20:30",
+      "class_type": "advanced",
+      "instructor": "Team HK Instructor"
+    },
+    {
+      "academy": "Relson Gracie Jiu-Jitsu Team HK",
+      "name": "Gracie Fundamentals",
+      "description": "Sport/Self-Defense Beginner Program",
+      "day_of_week": "Friday",
+      "start_time": "11:00",
+      "end_time": "12:00",
+      "class_type": "beginner",
+      "instructor": "Team HK Instructor"
+    },
+    {
+      "academy": "Relson Gracie Jiu-Jitsu Team HK",
+      "name": "Master Cycle",
+      "description": "Intermediate-Advanced Program",
+      "day_of_week": "Friday",
+      "start_time": "12:00",
+      "end_time": "13:30",
+      "class_type": "advanced",
+      "instructor": "Team HK Instructor"
+    },
+    {
+      "academy": "Relson Gracie Jiu-Jitsu Team HK",
+      "name": "Gracie Fundamentals",
+      "description": "Sport/Self-Defense Beginner Program",
+      "day_of_week": "Friday",
+      "start_time": "18:00",
+      "end_time": "19:00",
+      "class_type": "beginner",
+      "instructor": "Team HK Instructor"
+    },
+    {
+      "academy": "Relson Gracie Jiu-Jitsu Team HK",
+      "name": "Master Cycle",
+      "description": "Intermediate-Advanced Program",
+      "day_of_week": "Friday",
+      "start_time": "19:00",
+      "end_time": "20:30",
+      "class_type": "advanced",
+      "instructor": "Team HK Instructor"
+    },
+    {
+      "academy": "Relson Gracie Jiu-Jitsu Team HK",
+      "name": "Kid's Bullyproof (ages 4-7 & 8-14)",
+      "description": "Beginner Program for Kids Ages 4-14",
+      "day_of_week": "Saturday",
+      "start_time": "10:00",
+      "end_time": "10:50",
+      "class_type": "kids",
+      "instructor": "Team HK Instructor"
+    },
+    {
+      "academy": "Relson Gracie Jiu-Jitsu Team HK",
+      "name": "Gracie Combatives",
+      "description": "Self-Defense Beginner Program",
+      "day_of_week": "Saturday",
+      "start_time": "11:00",
+      "end_time": "12:00",
+      "class_type": "beginner",
+      "instructor": "Team HK Instructor"
+    },
+    {
+      "academy": "Relson Gracie Jiu-Jitsu Team HK",
+      "name": "Master Cycle (Sparring)",
+      "description": "Intermediate-Advanced Program",
+      "day_of_week": "Saturday",
+      "start_time": "12:00",
+      "end_time": "13:00",
+      "class_type": "advanced",
+      "instructor": "Team HK Instructor"
+    },
+    {
+      "academy": "Relson Gracie Jiu-Jitsu Team HK",
+      "name": "Combatives",
+      "description": "Self-Defense Beginner Program",
+      "day_of_week": "Sunday",
+      "start_time": "11:00",
+      "end_time": "12:00",
+      "class_type": "beginner",
+      "instructor": "Team HK Instructor"
+    },
+    {
+      "academy": "Relson Gracie Jiu-Jitsu Team HK",
+      "name": "Reflex Development Class (RDC)",
+      "description": "Intermediate Program",
+      "day_of_week": "Sunday",
+      "start_time": "12:00",
+      "end_time": "13:00",
+      "class_type": "intermediate",
+      "instructor": "Team HK Instructor"
+    },
+    {
+      "academy": "Relson Gracie Jiu-Jitsu Team HK",
+      "name": "Team Roll",
+      "description": "All Programs Welcome",
+      "day_of_week": "Sunday",
+      "start_time": "17:00",
+      "end_time": "18:00",
+      "class_type": "open_mat",
+      "instructor": "Team HK Instructor"
+    },
+    {
+      "academy": "Island Jiu-Jitsu",
+      "name": "Fundamentals",
+      "description": "Beginner-friendly class focusing on basic techniques",
+      "day_of_week": "Monday",
+      "start_time": "06:30",
+      "end_time": "07:30",
+      "class_type": "beginner",
+      "instructor": "Professor Mike"
+    },
+    {
+      "academy": "Island Jiu-Jitsu",
+      "name": "All Levels",
+      "description": "Mixed level class for all belt ranks",
+      "day_of_week": "Monday",
+      "start_time": "12:00",
+      "end_time": "13:00",
+      "class_type": "all_levels",
+      "instructor": "Professor Mike"
+    },
+    {
+      "academy": "Island Jiu-Jitsu",
+      "name": "Kids Class (5-9)",
+      "description": "Jiu-Jitsu for children ages 5-9",
+      "day_of_week": "Monday",
+      "start_time": "16:30",
+      "end_time": "17:15",
+      "class_type": "kids",
+      "instructor": "Coach Sarah"
+    },
+    {
+      "academy": "Island Jiu-Jitsu",
+      "name": "Kids Class (10-15)",
+      "description": "Jiu-Jitsu for children ages 10-15",
+      "day_of_week": "Monday",
+      "start_time": "17:30",
+      "end_time": "18:30",
+      "class_type": "kids",
+      "instructor": "Coach Sarah"
+    },
+    {
+      "academy": "Island Jiu-Jitsu",
+      "name": "Fundamentals",
+      "description": "Beginner-friendly class focusing on basic techniques",
+      "day_of_week": "Monday",
+      "start_time": "18:30",
+      "end_time": "19:30",
+      "class_type": "beginner",
+      "instructor": "Professor Mike"
+    },
+    {
+      "academy": "Island Jiu-Jitsu",
+      "name": "Advanced",
+      "description": "Advanced techniques and sparring",
+      "day_of_week": "Monday",
+      "start_time": "19:30",
+      "end_time": "20:30",
+      "class_type": "advanced",
+      "instructor": "Professor Mike"
+    },
+    {
+      "academy": "Island Jiu-Jitsu",
+      "name": "No-Gi Fundamentals",
+      "description": "No-Gi training for beginners",
+      "day_of_week": "Tuesday",
+      "start_time": "06:30",
+      "end_time": "07:30",
+      "class_type": "no_gi",
+      "instructor": "Coach David"
+    },
+    {
+      "academy": "Island Jiu-Jitsu",
+      "name": "All Levels",
+      "description": "Mixed level class for all belt ranks",
+      "day_of_week": "Tuesday",
+      "start_time": "12:00",
+      "end_time": "13:00",
+      "class_type": "all_levels",
+      "instructor": "Professor Mike"
+    },
+    {
+      "academy": "Island Jiu-Jitsu",
+      "name": "Kids Class (5-9)",
+      "description": "Jiu-Jitsu for children ages 5-9",
+      "day_of_week": "Tuesday",
+      "start_time": "16:30",
+      "end_time": "17:15",
+      "class_type": "kids",
+      "instructor": "Coach Sarah"
+    },
+    {
+      "academy": "Island Jiu-Jitsu",
+      "name": "Kids Class (10-15)",
+      "description": "Jiu-Jitsu for children ages 10-15",
+      "day_of_week": "Tuesday",
+      "start_time": "17:30",
+      "end_time": "18:30",
+      "class_type": "kids",
+      "instructor": "Coach Sarah"
+    },
+    {
+      "academy": "Island Jiu-Jitsu",
+      "name": "No-Gi All Levels",
+      "description": "No-Gi training for all levels",
+      "day_of_week": "Tuesday",
+      "start_time": "18:30",
+      "end_time": "19:30",
+      "class_type": "no_gi",
+      "instructor": "Coach David"
+    },
+    {
+      "academy": "Island Jiu-Jitsu",
+      "name": "Competition Training",
+      "description": "Training focused on competition techniques",
+      "day_of_week": "Tuesday",
+      "start_time": "19:30",
+      "end_time": "20:30",
+      "class_type": "competition",
+      "instructor": "Professor Mike"
+    },
+    {
+      "academy": "Gracie Barra Honolulu",
+      "name": "Fundamentals",
+      "description": "Essential techniques for beginners",
+      "day_of_week": "Monday",
+      "start_time": "07:00",
+      "end_time": "08:00",
+      "class_type": "beginner",
+      "instructor": "Professor Carlos"
+    },
+    {
+      "academy": "Gracie Barra Honolulu",
+      "name": "Advanced",
+      "description": "Advanced techniques for experienced practitioners",
+      "day_of_week": "Monday",
+      "start_time": "12:00",
+      "end_time": "13:30",
+      "class_type": "advanced",
+      "instructor": "Professor Carlos"
+    },
+    {
+      "academy": "Gracie Barra Honolulu",
+      "name": "Kids Program (4-7)",
+      "description": "Jiu-Jitsu for young children",
+      "day_of_week": "Monday",
+      "start_time": "16:00",
+      "end_time": "16:45",
+      "class_type": "kids",
+      "instructor": "Coach Maria"
+    },
+    {
+      "academy": "Gracie Barra Honolulu",
+      "name": "Kids Program (8-14)",
+      "description": "Jiu-Jitsu for older children",
+      "day_of_week": "Monday",
+      "start_time": "17:00",
+      "end_time": "18:00",
+      "class_type": "kids",
+      "instructor": "Coach Maria"
+    },
+    {
+      "academy": "Gracie Barra Honolulu",
+      "name": "Fundamentals",
+      "description": "Essential techniques for beginners",
+      "day_of_week": "Monday",
+      "start_time": "18:30",
+      "end_time": "19:30",
+      "class_type": "beginner",
+      "instructor": "Professor Carlos"
+    },
+    {
+      "academy": "Gracie Barra Honolulu",
+      "name": "Advanced",
+      "description": "Advanced techniques for experienced practitioners",
+      "day_of_week": "Monday",
+      "start_time": "19:30",
+      "end_time": "21:00",
+      "class_type": "advanced",
+      "instructor": "Professor Carlos"
+    },
+    {
+      "academy": "Atos Jiu-Jitsu Hawaii",
+      "name": "Morning Drill",
+      "description": "Technical drilling session",
+      "day_of_week": "Monday",
+      "start_time": "06:00",
+      "end_time": "07:00",
+      "class_type": "all_levels",
+      "instructor": "Coach Andre"
+    },
+    {
+      "academy": "Atos Jiu-Jitsu Hawaii",
+      "name": "Fundamentals",
+      "description": "Basic techniques and positions",
+      "day_of_week": "Monday",
+      "start_time": "12:00",
+      "end_time": "13:00",
+      "class_type": "beginner",
+      "instructor": "Professor Lucas"
+    },
+    {
+      "academy": "Atos Jiu-Jitsu Hawaii",
+      "name": "Kids Class",
+      "description": "Jiu-Jitsu for children ages 5-12",
+      "day_of_week": "Monday",
+      "start_time": "16:30",
+      "end_time": "17:30",
+      "class_type": "kids",
+      "instructor": "Coach Kiana"
+    },
+    {
+      "academy": "Atos Jiu-Jitsu Hawaii",
+      "name": "Fundamentals",
+      "description": "Basic techniques and positions",
+      "day_of_week": "Monday",
+      "start_time": "18:00",
+      "end_time": "19:00",
+      "class_type": "beginner",
+      "instructor": "Professor Lucas"
+    },
+    {
+      "academy": "Atos Jiu-Jitsu Hawaii",
+      "name": "Competition Training",
+      "description": "Advanced training for competitors",
+      "day_of_week": "Monday",
+      "start_time": "19:00",
+      "end_time": "20:30",
+      "class_type": "competition",
+      "instructor": "Professor Lucas"
+    },
+    {
+      "academy": "Atos Jiu-Jitsu Hawaii",
+      "name": "No-Gi Advanced",
+      "description": "No-Gi techniques for advanced practitioners",
+      "day_of_week": "Tuesday",
+      "start_time": "06:00",
+      "end_time": "07:00",
+      "class_type": "no_gi",
+      "instructor": "Coach Andre"
+    },
+    {
+      "academy": "Atos Jiu-Jitsu Hawaii",
+      "name": "All Levels",
+      "description": "Training for all belt levels",
+      "day_of_week": "Tuesday",
+      "start_time": "12:00",
+      "end_time": "13:00",
+      "class_type": "all_levels",
+      "instructor": "Professor Lucas"
+    },
+    {
+      "academy": "Atos Jiu-Jitsu Hawaii",
+      "name": "Kids Competition Team",
+      "description": "Advanced training for kids competition team",
+      "day_of_week": "Tuesday",
+      "start_time": "16:30",
+      "end_time": "17:30",
+      "class_type": "kids_advanced",
+      "instructor": "Coach Kiana"
+    },
+    {
+      "academy": "Atos Jiu-Jitsu Hawaii",
+      "name": "No-Gi Fundamentals",
+      "description": "Basic No-Gi techniques",
+      "day_of_week": "Tuesday",
+      "start_time": "18:00",
+      "end_time": "19:00",
+      "class_type": "no_gi",
+      "instructor": "Coach Andre"
+    },
+    {
+      "academy": "Atos Jiu-Jitsu Hawaii",
+      "name": "Advanced",
+      "description": "Advanced techniques and sparring",
+      "day_of_week": "Tuesday",
+      "start_time": "19:00",
+      "end_time": "20:30",
+      "class_type": "advanced",
+      "instructor": "Professor Lucas"
+    }
+  ]
+}

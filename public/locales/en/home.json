@@ -1,0 +1,57 @@
+{
+  "hero": {
+    "title": "Find Jiu-Jitsu Classes Anywhere in the World",
+    "subtitle": "Discover and connect with BJJ academies worldwide. Search by location, time, instructor, and more.",
+    "searchButton": "Find Classes",
+    "registerButton": "Register Academy"
+  },
+  "search": {
+    "title": "Search for Classes",
+    "locationLabel": "Location",
+    "locationPlaceholder": "City, Region, or Country",
+    "dateLabel": "Date",
+    "classTypeLabel": "Class Type",
+    "allClasses": "All Classes",
+    "classTypes": {
+      "fundamentals": "Fundamentals",
+      "advanced": "Advanced",
+      "nogi": "No-Gi",
+      "kids": "Kids",
+      "competition": "Competition"
+    },
+    "searchButton": "Search"
+  },
+  "featured": {
+    "title": "Featured Academies",
+    "viewAllButton": "View All Academies",
+    "classesCount": "{{count}} classes per week",
+    "imagePlaceholder": "Academy Image"
+  },
+  "benefits": {
+    "title": "Why Use BJJ Schedule?",
+    "items": [
+      {
+        "title": "Find Classes Anywhere",
+        "description": "Whether you're traveling or looking for a new academy, easily find classes that fit your schedule."
+      },
+      {
+        "title": "Stay Updated",
+        "description": "Get notifications about schedule changes, special events, and new classes at your favorite academies."
+      },
+      {
+        "title": "Connect with Community",
+        "description": "Discover the global BJJ community and connect with practitioners worldwide."
+      },
+      {
+        "title": "Manage Your Schedule",
+        "description": "Sync classes with your calendar and never miss a training session."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Join the Global BJJ Community Today",
+    "subtitle": "Connect with academies worldwide and never miss a training session.",
+    "primaryButton": "Sign Up Now",
+    "secondaryButton": "Register Academy"
+  }
+}

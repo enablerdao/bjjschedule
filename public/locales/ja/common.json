@@ -1,0 +1,96 @@
+{
+  "app": {
+    "name": "BJJスケジュール",
+    "title": "BJJスケジュール",
+    "tagline": "世界中の柔術クラスを検索",
+    "description": "世界中のブラジリアン柔術クラスを発見・探索。場所、時間、講師などで検索できます。"
+  },
+  "site_name": "BJJスケジュール",
+  "nav": {
+    "home": "ホーム",
+    "search": "クラス検索",
+    "academies": "道場",
+    "about": "サイトについて",
+    "contact": "お問い合わせ",
+    "login": "ログイン",
+    "signup": "登録"
+  },
+  "footer": {
+    "description": "BJJスケジュールは世界中のブラジリアン柔術クラスを見つけるお手伝いをします。旅行中でも新しい道場を探していても、私たちがサポートします。",
+    "navigation": "ナビゲーション",
+    "legal": "法的情報",
+    "connect": "接続",
+    "terms": "利用規約",
+    "privacy": "プライバシーポリシー",
+    "cookies": "クッキーポリシー",
+    "rights": "All rights reserved."
+  },
+  "auth": {
+    "email": "メールアドレス",
+    "password": "パスワード",
+    "login": "ログイン",
+    "signup": "登録",
+    "forgotPassword": "パスワードをお忘れですか？",
+    "resetPassword": "パスワードをリセット",
+    "backToLogin": "ログインに戻る",
+    "noAccount": "アカウントをお持ちでないですか？",
+    "hasAccount": "すでにアカウントをお持ちですか？",
+    "createAccount": "アカウント作成",
+    "loginNow": "今すぐログイン",
+    "verificationSent": "確認メールを送信しました。受信トレイを確認し、指示に従ってアカウントを確認してください。",
+    "resetPasswordSent": "パスワードリセットメールを送信しました。受信トレイを確認し、指示に従ってパスワードをリセットしてください。",
+    "loginDescription": "BJJスケジュールアカウントにログインして、お気に入りの道場やクラスを管理しましょう。",
+    "signupDescription": "BJJスケジュールアカウントを作成して、お気に入りの道場を保存し、通知を受け取るなどの機能を利用しましょう。"
+  },
+  "errors": {
+    "required": "このフィールドは必須です",
+    "invalidEmail": "有効なメールアドレスを入力してください",
+    "passwordLength": "パスワードは8文字以上である必要があります",
+    "somethingWrong": "問題が発生しました。もう一度お試しください。"
+  },
+  "loading": "読み込み中...",
+  "success": "成功！",
+  "upload": "ファイルをアップロード",
+  "dragAndDrop": "またはドラッグ＆ドロップ",
+  "coming_soon": "近日公開",
+  "academies": "道場",
+  "class_schedule": "クラススケジュール",
+  "contact_info": "連絡先情報",
+  "social_media": "ソーシャルメディア",
+  "time": "時間",
+  "class": "クラス",
+  "instructor": "講師",
+  "type": "タイプ",
+  "lat": "緯度",
+  "lng": "経度",
+  "notFound": {
+    "title": "ページが見つかりません",
+    "description": "お探しのページは存在しません。",
+    "message": "お探しのページは削除されたか、名前が変更されたか、一時的に利用できない可能性があります。",
+    "homeButton": "ホームページへ",
+    "searchButton": "クラスを検索"
+  },
+  "contact": {
+    "title": "お問い合わせ",
+    "description": "BJJスケジュールチームにご連絡ください。質問やフィードバックについてサポートいたします。",
+    "nameLabel": "お名前",
+    "emailLabel": "メールアドレス",
+    "subjectLabel": "件名",
+    "messageLabel": "メッセージ",
+    "submitButton": "送信",
+    "selectSubject": "件名を選択してください",
+    "subjects": {
+      "general": "一般的なお問い合わせ",
+      "academy": "道場登録について",
+      "technical": "技術的なサポート",
+      "partnership": "パートナーシップの機会",
+      "other": "その他"
+    },
+    "thankYou": "ありがとうございます！",
+    "successMessage": "メッセージが正常に送信されました。できるだけ早くご返信いたします。",
+    "sendAnother": "別のメッセージを送信",
+    "email": "メール",
+    "phone": "電話",
+    "location": "所在地"
+  }
+}
