@@ -93,8 +93,8 @@ export default function HonoluluPage() {
   return (
     <>
       <Head>
-        <title>{`${t('search:honolulu_title')} | ${t('common:site_name')}`}</title>
-        <meta name="description" content={t('search:honolulu_description')} />
+        <title>{`${t('search:tokyo_title')} | ${t('common:site_name')}`}</title>
+        <meta name="description" content={t('search:tokyo_description')} />
       </Head>
       
       <Header />
