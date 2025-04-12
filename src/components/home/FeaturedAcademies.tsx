@@ -28,10 +28,11 @@ const FEATURED_ACADEMIES = [
   },
   {
     id: 4,
-    name: 'Carpe Diem',
-    location: 'Tokyo, Japan',
+    name: 'Carpe Diem BJJ 原宿',
+    location: '東京, 日本',
     image: '/images/placeholder-academy-4.jpg',
-    classes: 28,
+    classes: 15,
+    specialLink: '/tokyo',
   },
 ];
 

@@ -1,0 +1,1694 @@
+{
+  "academies": [
+    {
+      "name": "CARPE DIEM BJJ 六本木",
+      "website": "https://carpediembjj.com/",
+      "address": "〒106-0032 東京都港区六本木7-14-7 六本木トリニティビル B1F",
+      "phone": "03-6434-5520",
+      "email": "info@carpediembjj.com",
+      "description": "六本木にあるCarpe Diem BJJの支部。外国人も多く通う国際色豊かな道場。",
+      "logo_url": "/images/logos/carpe-diem.jpg",
+      "social_media": {
+        "facebook": "https://www.facebook.com/carpediembjj/",
+        "instagram": "https://www.instagram.com/carpediembjj/"
+      },
+      "location": {
+        "latitude": 35.6627,
+        "longitude": 139.7307
+      },
+      "classes": [
+        {
+          "academy": "CARPE DIEM BJJ 六本木",
+          "name": "ファンダメンタルクラス",
+          "description": "基本的な技術を学ぶ初心者向けクラス",
+          "day_of_week": "monday",
+          "start_time": "12:00",
+          "end_time": "13:30",
+          "class_type": "beginner",
+          "instructor": "岩崎 正寛"
+        },
+        {
+          "academy": "CARPE DIEM BJJ 六本木",
+          "name": "オープンマット",
+          "description": "自由練習の時間",
+          "day_of_week": "monday",
+          "start_time": "14:00",
+          "end_time": "15:30",
+          "class_type": "open_mat",
+          "instructor": "スタッフ"
+        },
+        {
+          "academy": "CARPE DIEM BJJ 六本木",
+          "name": "アドバンスクラス",
+          "description": "上級者向けの技術トレーニング",
+          "day_of_week": "monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "class_type": "advanced",
+          "instructor": "岩崎 正寛"
+        },
+        {
+          "academy": "CARPE DIEM BJJ 六本木",
+          "name": "ノーギクラス",
+          "description": "道着なしでの柔術トレーニング",
+          "day_of_week": "tuesday",
+          "start_time": "12:00",
+          "end_time": "13:30",
+          "class_type": "intermediate",
+          "instructor": "岩崎 正寛"
+        },
+        {
+          "academy": "CARPE DIEM BJJ 六本木",
+          "name": "ファンダメンタルクラス",
+          "description": "基本的な技術を学ぶ初心者向けクラス",
+          "day_of_week": "tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "class_type": "beginner",
+          "instructor": "岩崎 正寛"
+        },
+        {
+          "academy": "CARPE DIEM BJJ 六本木",
+          "name": "女性専用クラス",
+          "description": "女性のみ参加可能なクラス",
+          "day_of_week": "wednesday",
+          "start_time": "10:30",
+          "end_time": "12:00",
+          "class_type": "women",
+          "instructor": "田中 美香"
+        },
+        {
+          "academy": "CARPE DIEM BJJ 六本木",
+          "name": "ファンダメンタルクラス",
+          "description": "基本的な技術を学ぶ初心者向けクラス",
+          "day_of_week": "wednesday",
+          "start_time": "12:00",
+          "end_time": "13:30",
+          "class_type": "beginner",
+          "instructor": "岩崎 正寛"
+        },
+        {
+          "academy": "CARPE DIEM BJJ 六本木",
+          "name": "アドバンスクラス",
+          "description": "上級者向けの技術トレーニング",
+          "day_of_week": "wednesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "class_type": "advanced",
+          "instructor": "岩崎 正寛"
+        },
+        {
+          "academy": "CARPE DIEM BJJ 六本木",
+          "name": "ノーギクラス",
+          "description": "道着なしでの柔術トレーニング",
+          "day_of_week": "thursday",
+          "start_time": "12:00",
+          "end_time": "13:30",
+          "class_type": "intermediate",
+          "instructor": "岩崎 正寛"
+        },
+        {
+          "academy": "CARPE DIEM BJJ 六本木",
+          "name": "ファンダメンタルクラス",
+          "description": "基本的な技術を学ぶ初心者向けクラス",
+          "day_of_week": "thursday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "class_type": "beginner",
+          "instructor": "岩崎 正寛"
+        },
+        {
+          "academy": "CARPE DIEM BJJ 六本木",
+          "name": "ファンダメンタルクラス",
+          "description": "基本的な技術を学ぶ初心者向けクラス",
+          "day_of_week": "friday",
+          "start_time": "12:00",
+          "end_time": "13:30",
+          "class_type": "beginner",
+          "instructor": "岩崎 正寛"
+        },
+        {
+          "academy": "CARPE DIEM BJJ 六本木",
+          "name": "コンペティションクラス",
+          "description": "大会に向けた準備と戦略",
+          "day_of_week": "friday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "class_type": "advanced",
+          "instructor": "岩崎 正寛"
+        },
+        {
+          "academy": "CARPE DIEM BJJ 六本木",
+          "name": "キッズクラス",
+          "description": "子供向けの柔術クラス",
+          "day_of_week": "saturday",
+          "start_time": "10:00",
+          "end_time": "11:00",
+          "class_type": "kids",
+          "instructor": "田中 美香"
+        },
+        {
+          "academy": "CARPE DIEM BJJ 六本木",
+          "name": "オールレベルクラス",
+          "description": "全レベル対象のクラス",
+          "day_of_week": "saturday",
+          "start_time": "11:30",
+          "end_time": "13:00",
+          "class_type": "intermediate",
+          "instructor": "岩崎 正寛"
+        },
+        {
+          "academy": "CARPE DIEM BJJ 六本木",
+          "name": "オープンマット",
+          "description": "自由練習の時間",
+          "day_of_week": "saturday",
+          "start_time": "13:30",
+          "end_time": "15:00",
+          "class_type": "open_mat",
+          "instructor": "スタッフ"
+        }
+      ]
+    },
+    {
+      "name": "CARPE DIEM BJJ 秋葉原",
+      "website": "https://carpediembjj.com/",
+      "address": "〒101-0021 東京都千代田区外神田4-14-1 秋葉原UDX 6F",
+      "phone": "03-5209-5671",
+      "email": "info@carpediembjj.com",
+      "description": "秋葉原駅直結のUDXビル内にあるCarpe Diem BJJ。通勤途中に通いやすい立地。",
+      "logo_url": "/images/logos/carpe-diem.jpg",
+      "social_media": {
+        "facebook": "https://www.facebook.com/carpediembjj/",
+        "instagram": "https://www.instagram.com/carpediembjj/"
+      },
+      "location": {
+        "latitude": 35.6986,
+        "longitude": 139.7726
+      },
+      "classes": [
+        {
+          "academy": "CARPE DIEM BJJ 秋葉原",
+          "name": "ファンダメンタルクラス",
+          "description": "基本的な技術を学ぶ初心者向けクラス",
+          "day_of_week": "monday",
+          "start_time": "12:00",
+          "end_time": "13:30",
+          "class_type": "beginner",
+          "instructor": "山本 健太"
+        },
+        {
+          "academy": "CARPE DIEM BJJ 秋葉原",
+          "name": "オープンマット",
+          "description": "自由練習の時間",
+          "day_of_week": "monday",
+          "start_time": "14:00",
+          "end_time": "15:30",
+          "class_type": "open_mat",
+          "instructor": "スタッフ"
+        },
+        {
+          "academy": "CARPE DIEM BJJ 秋葉原",
+          "name": "アドバンスクラス",
+          "description": "上級者向けの技術トレーニング",
+          "day_of_week": "monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "class_type": "advanced",
+          "instructor": "山本 健太"
+        },
+        {
+          "academy": "CARPE DIEM BJJ 秋葉原",
+          "name": "ノーギクラス",
+          "description": "道着なしでの柔術トレーニング",
+          "day_of_week": "tuesday",
+          "start_time": "12:00",
+          "end_time": "13:30",
+          "class_type": "intermediate",
+          "instructor": "山本 健太"
+        },
+        {
+          "academy": "CARPE DIEM BJJ 秋葉原",
+          "name": "ファンダメンタルクラス",
+          "description": "基本的な技術を学ぶ初心者向けクラス",
+          "day_of_week": "tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "class_type": "beginner",
+          "instructor": "山本 健太"
+        },
+        {
+          "academy": "CARPE DIEM BJJ 秋葉原",
+          "name": "女性専用クラス",
+          "description": "女性のみ参加可能なクラス",
+          "day_of_week": "wednesday",
+          "start_time": "10:30",
+          "end_time": "12:00",
+          "class_type": "women",
+          "instructor": "佐藤 美咲"
+        },
+        {
+          "academy": "CARPE DIEM BJJ 秋葉原",
+          "name": "ファンダメンタルクラス",
+          "description": "基本的な技術を学ぶ初心者向けクラス",
+          "day_of_week": "wednesday",
+          "start_time": "12:00",
+          "end_time": "13:30",
+          "class_type": "beginner",
+          "instructor": "山本 健太"
+        },
+        {
+          "academy": "CARPE DIEM BJJ 秋葉原",
+          "name": "アドバンスクラス",
+          "description": "上級者向けの技術トレーニング",
+          "day_of_week": "wednesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "class_type": "advanced",
+          "instructor": "山本 健太"
+        },
+        {
+          "academy": "CARPE DIEM BJJ 秋葉原",
+          "name": "ノーギクラス",
+          "description": "道着なしでの柔術トレーニング",
+          "day_of_week": "thursday",
+          "start_time": "12:00",
+          "end_time": "13:30",
+          "class_type": "intermediate",
+          "instructor": "山本 健太"
+        },
+        {
+          "academy": "CARPE DIEM BJJ 秋葉原",
+          "name": "ファンダメンタルクラス",
+          "description": "基本的な技術を学ぶ初心者向けクラス",
+          "day_of_week": "thursday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "class_type": "beginner",
+          "instructor": "山本 健太"
+        },
+        {
+          "academy": "CARPE DIEM BJJ 秋葉原",
+          "name": "ファンダメンタルクラス",
+          "description": "基本的な技術を学ぶ初心者向けクラス",
+          "day_of_week": "friday",
+          "start_time": "12:00",
+          "end_time": "13:30",
+          "class_type": "beginner",
+          "instructor": "山本 健太"
+        },
+        {
+          "academy": "CARPE DIEM BJJ 秋葉原",
+          "name": "コンペティションクラス",
+          "description": "大会に向けた準備と戦略",
+          "day_of_week": "friday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "class_type": "advanced",
+          "instructor": "山本 健太"
+        },
+        {
+          "academy": "CARPE DIEM BJJ 秋葉原",
+          "name": "キッズクラス",
+          "description": "子供向けの柔術クラス",
+          "day_of_week": "saturday",
+          "start_time": "10:00",
+          "end_time": "11:00",
+          "class_type": "kids",
+          "instructor": "佐藤 美咲"
+        },
+        {
+          "academy": "CARPE DIEM BJJ 秋葉原",
+          "name": "オールレベルクラス",
+          "description": "全レベル対象のクラス",
+          "day_of_week": "saturday",
+          "start_time": "11:30",
+          "end_time": "13:00",
+          "class_type": "intermediate",
+          "instructor": "山本 健太"
+        },
+        {
+          "academy": "CARPE DIEM BJJ 秋葉原",
+          "name": "オープンマット",
+          "description": "自由練習の時間",
+          "day_of_week": "saturday",
+          "start_time": "13:30",
+          "end_time": "15:00",
+          "class_type": "open_mat",
+          "instructor": "スタッフ"
+        }
+      ]
+    },
+    {
+      "name": "CARPE DIEM BJJ 赤坂",
+      "website": "https://carpediembjj.com/",
+      "address": "〒107-0052 東京都港区赤坂3-21-5 サンビューハイツ赤坂 B1F",
+      "phone": "03-6441-2738",
+      "email": "info@carpediembjj.com",
+      "description": "赤坂駅から徒歩3分。ビジネスマンに人気のCarpe Diem BJJ赤坂支部。",
+      "logo_url": "/images/logos/carpe-diem.jpg",
+      "social_media": {
+        "facebook": "https://www.facebook.com/carpediembjj/",
+        "instagram": "https://www.instagram.com/carpediembjj/"
+      },
+      "location": {
+        "latitude": 35.6738,
+        "longitude": 139.7371
+      },
+      "classes": [
+        {
+          "academy": "CARPE DIEM BJJ 赤坂",
+          "name": "ファンダメンタルクラス",
+          "description": "基本的な技術を学ぶ初心者向けクラス",
+          "day_of_week": "monday",
+          "start_time": "12:00",
+          "end_time": "13:30",
+          "class_type": "beginner",
+          "instructor": "佐々木 大輔"
+        },
+        {
+          "academy": "CARPE DIEM BJJ 赤坂",
+          "name": "オープンマット",
+          "description": "自由練習の時間",
+          "day_of_week": "monday",
+          "start_time": "14:00",
+          "end_time": "15:30",
+          "class_type": "open_mat",
+          "instructor": "スタッフ"
+        },
+        {
+          "academy": "CARPE DIEM BJJ 赤坂",
+          "name": "アドバンスクラス",
+          "description": "上級者向けの技術トレーニング",
+          "day_of_week": "monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "class_type": "advanced",
+          "instructor": "佐々木 大輔"
+        },
+        {
+          "academy": "CARPE DIEM BJJ 赤坂",
+          "name": "ノーギクラス",
+          "description": "道着なしでの柔術トレーニング",
+          "day_of_week": "tuesday",
+          "start_time": "12:00",
+          "end_time": "13:30",
+          "class_type": "intermediate",
+          "instructor": "佐々木 大輔"
+        },
+        {
+          "academy": "CARPE DIEM BJJ 赤坂",
+          "name": "ファンダメンタルクラス",
+          "description": "基本的な技術を学ぶ初心者向けクラス",
+          "day_of_week": "tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "class_type": "beginner",
+          "instructor": "佐々木 大輔"
+        },
+        {
+          "academy": "CARPE DIEM BJJ 赤坂",
+          "name": "女性専用クラス",
+          "description": "女性のみ参加可能なクラス",
+          "day_of_week": "wednesday",
+          "start_time": "10:30",
+          "end_time": "12:00",
+          "class_type": "women",
+          "instructor": "高橋 恵"
+        },
+        {
+          "academy": "CARPE DIEM BJJ 赤坂",
+          "name": "ファンダメンタルクラス",
+          "description": "基本的な技術を学ぶ初心者向けクラス",
+          "day_of_week": "wednesday",
+          "start_time": "12:00",
+          "end_time": "13:30",
+          "class_type": "beginner",
+          "instructor": "佐々木 大輔"
+        },
+        {
+          "academy": "CARPE DIEM BJJ 赤坂",
+          "name": "アドバンスクラス",
+          "description": "上級者向けの技術トレーニング",
+          "day_of_week": "wednesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "class_type": "advanced",
+          "instructor": "佐々木 大輔"
+        },
+        {
+          "academy": "CARPE DIEM BJJ 赤坂",
+          "name": "ノーギクラス",
+          "description": "道着なしでの柔術トレーニング",
+          "day_of_week": "thursday",
+          "start_time": "12:00",
+          "end_time": "13:30",
+          "class_type": "intermediate",
+          "instructor": "佐々木 大輔"
+        },
+        {
+          "academy": "CARPE DIEM BJJ 赤坂",
+          "name": "ファンダメンタルクラス",
+          "description": "基本的な技術を学ぶ初心者向けクラス",
+          "day_of_week": "thursday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "class_type": "beginner",
+          "instructor": "佐々木 大輔"
+        },
+        {
+          "academy": "CARPE DIEM BJJ 赤坂",
+          "name": "ファンダメンタルクラス",
+          "description": "基本的な技術を学ぶ初心者向けクラス",
+          "day_of_week": "friday",
+          "start_time": "12:00",
+          "end_time": "13:30",
+          "class_type": "beginner",
+          "instructor": "佐々木 大輔"
+        },
+        {
+          "academy": "CARPE DIEM BJJ 赤坂",
+          "name": "コンペティションクラス",
+          "description": "大会に向けた準備と戦略",
+          "day_of_week": "friday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "class_type": "advanced",
+          "instructor": "佐々木 大輔"
+        },
+        {
+          "academy": "CARPE DIEM BJJ 赤坂",
+          "name": "キッズクラス",
+          "description": "子供向けの柔術クラス",
+          "day_of_week": "saturday",
+          "start_time": "10:00",
+          "end_time": "11:00",
+          "class_type": "kids",
+          "instructor": "高橋 恵"
+        },
+        {
+          "academy": "CARPE DIEM BJJ 赤坂",
+          "name": "オールレベルクラス",
+          "description": "全レベル対象のクラス",
+          "day_of_week": "saturday",
+          "start_time": "11:30",
+          "end_time": "13:00",
+          "class_type": "intermediate",
+          "instructor": "佐々木 大輔"
+        },
+        {
+          "academy": "CARPE DIEM BJJ 赤坂",
+          "name": "オープンマット",
+          "description": "自由練習の時間",
+          "day_of_week": "saturday",
+          "start_time": "13:30",
+          "end_time": "15:00",
+          "class_type": "open_mat",
+          "instructor": "スタッフ"
+        }
+      ]
+    },
+    {
+      "name": "CARPE DIEM BJJ 中目黒",
+      "website": "https://carpediembjj.com/",
+      "address": "〒153-0051 東京都目黒区上目黒1-26-1 中目黒アトラスタワー 3F",
+      "phone": "03-6303-2159",
+      "email": "info@carpediembjj.com",
+      "description": "中目黒駅直結の好立地。ブラジル人指導者によるオーセンティックな柔術指導。",
+      "logo_url": "/images/logos/carpe-diem.jpg",
+      "social_media": {
+        "facebook": "https://www.facebook.com/carpediembjj/",
+        "instagram": "https://www.instagram.com/carpediembjj/"
+      },
+      "location": {
+        "latitude": 35.6438,
+        "longitude": 139.6982
+      },
+      "classes": [
+        {
+          "academy": "CARPE DIEM BJJ 中目黒",
+          "name": "ファンダメンタルクラス",
+          "description": "基本的な技術を学ぶ初心者向けクラス",
+          "day_of_week": "monday",
+          "start_time": "12:00",
+          "end_time": "13:30",
+          "class_type": "beginner",
+          "instructor": "マルコス・ソウザ"
+        },
+        {
+          "academy": "CARPE DIEM BJJ 中目黒",
+          "name": "オープンマット",
+          "description": "自由練習の時間",
+          "day_of_week": "monday",
+          "start_time": "14:00",
+          "end_time": "15:30",
+          "class_type": "open_mat",
+          "instructor": "スタッフ"
+        },
+        {
+          "academy": "CARPE DIEM BJJ 中目黒",
+          "name": "アドバンスクラス",
+          "description": "上級者向けの技術トレーニング",
+          "day_of_week": "monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "class_type": "advanced",
+          "instructor": "マルコス・ソウザ"
+        },
+        {
+          "academy": "CARPE DIEM BJJ 中目黒",
+          "name": "ノーギクラス",
+          "description": "道着なしでの柔術トレーニング",
+          "day_of_week": "tuesday",
+          "start_time": "12:00",
+          "end_time": "13:30",
+          "class_type": "intermediate",
+          "instructor": "マルコス・ソウザ"
+        },
+        {
+          "academy": "CARPE DIEM BJJ 中目黒",
+          "name": "ファンダメンタルクラス",
+          "description": "基本的な技術を学ぶ初心者向けクラス",
+          "day_of_week": "tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "class_type": "beginner",
+          "instructor": "マルコス・ソウザ"
+        },
+        {
+          "academy": "CARPE DIEM BJJ 中目黒",
+          "name": "女性専用クラス",
+          "description": "女性のみ参加可能なクラス",
+          "day_of_week": "wednesday",
+          "start_time": "10:30",
+          "end_time": "12:00",
+          "class_type": "women",
+          "instructor": "中村 美香"
+        },
+        {
+          "academy": "CARPE DIEM BJJ 中目黒",
+          "name": "ファンダメンタルクラス",
+          "description": "基本的な技術を学ぶ初心者向けクラス",
+          "day_of_week": "wednesday",
+          "start_time": "12:00",
+          "end_time": "13:30",
+          "class_type": "beginner",
+          "instructor": "マルコス・ソウザ"
+        },
+        {
+          "academy": "CARPE DIEM BJJ 中目黒",
+          "name": "アドバンスクラス",
+          "description": "上級者向けの技術トレーニング",
+          "day_of_week": "wednesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "class_type": "advanced",
+          "instructor": "マルコス・ソウザ"
+        },
+        {
+          "academy": "CARPE DIEM BJJ 中目黒",
+          "name": "ノーギクラス",
+          "description": "道着なしでの柔術トレーニング",
+          "day_of_week": "thursday",
+          "start_time": "12:00",
+          "end_time": "13:30",
+          "class_type": "intermediate",
+          "instructor": "マルコス・ソウザ"
+        },
+        {
+          "academy": "CARPE DIEM BJJ 中目黒",
+          "name": "ファンダメンタルクラス",
+          "description": "基本的な技術を学ぶ初心者向けクラス",
+          "day_of_week": "thursday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "class_type": "beginner",
+          "instructor": "マルコス・ソウザ"
+        },
+        {
+          "academy": "CARPE DIEM BJJ 中目黒",
+          "name": "ファンダメンタルクラス",
+          "description": "基本的な技術を学ぶ初心者向けクラス",
+          "day_of_week": "friday",
+          "start_time": "12:00",
+          "end_time": "13:30",
+          "class_type": "beginner",
+          "instructor": "マルコス・ソウザ"
+        },
+        {
+          "academy": "CARPE DIEM BJJ 中目黒",
+          "name": "コンペティションクラス",
+          "description": "大会に向けた準備と戦略",
+          "day_of_week": "friday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "class_type": "advanced",
+          "instructor": "マルコス・ソウザ"
+        },
+        {
+          "academy": "CARPE DIEM BJJ 中目黒",
+          "name": "キッズクラス",
+          "description": "子供向けの柔術クラス",
+          "day_of_week": "saturday",
+          "start_time": "10:00",
+          "end_time": "11:00",
+          "class_type": "kids",
+          "instructor": "中村 美香"
+        },
+        {
+          "academy": "CARPE DIEM BJJ 中目黒",
+          "name": "オールレベルクラス",
+          "description": "全レベル対象のクラス",
+          "day_of_week": "saturday",
+          "start_time": "11:30",
+          "end_time": "13:00",
+          "class_type": "intermediate",
+          "instructor": "マルコス・ソウザ"
+        },
+        {
+          "academy": "CARPE DIEM BJJ 中目黒",
+          "name": "オープンマット",
+          "description": "自由練習の時間",
+          "day_of_week": "saturday",
+          "start_time": "13:30",
+          "end_time": "15:00",
+          "class_type": "open_mat",
+          "instructor": "スタッフ"
+        }
+      ]
+    },
+    {
+      "name": "GRACIE BARRA 東京",
+      "website": "https://graciebarra.jp/",
+      "address": "〒150-0043 東京都渋谷区道玄坂2-10-7 新大宗ビル1号館 6F",
+      "phone": "03-6416-1094",
+      "email": "info@graciebarra.jp",
+      "description": "世界最大の柔術チームGRACIE BARRAの東京支部。初心者から上級者まで対応。",
+      "logo_url": "/images/logos/gracie-barra.jpg",
+      "social_media": {
+        "facebook": "https://www.facebook.com/graciebarratokyo/",
+        "instagram": "https://www.instagram.com/graciebarratokyo/"
+      },
+      "location": {
+        "latitude": 35.6582,
+        "longitude": 139.6989
+      },
+      "classes": [
+        {
+          "academy": "GRACIE BARRA 東京",
+          "name": "ファンダメンタルクラス",
+          "description": "基本的な技術を学ぶ初心者向けクラス",
+          "day_of_week": "monday",
+          "start_time": "12:00",
+          "end_time": "13:30",
+          "class_type": "beginner",
+          "instructor": "鈴木 隆太"
+        },
+        {
+          "academy": "GRACIE BARRA 東京",
+          "name": "オープンマット",
+          "description": "自由練習の時間",
+          "day_of_week": "monday",
+          "start_time": "14:00",
+          "end_time": "15:30",
+          "class_type": "open_mat",
+          "instructor": "スタッフ"
+        },
+        {
+          "academy": "GRACIE BARRA 東京",
+          "name": "アドバンスクラス",
+          "description": "上級者向けの技術トレーニング",
+          "day_of_week": "monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "class_type": "advanced",
+          "instructor": "鈴木 隆太"
+        },
+        {
+          "academy": "GRACIE BARRA 東京",
+          "name": "ノーギクラス",
+          "description": "道着なしでの柔術トレーニング",
+          "day_of_week": "tuesday",
+          "start_time": "12:00",
+          "end_time": "13:30",
+          "class_type": "intermediate",
+          "instructor": "鈴木 隆太"
+        },
+        {
+          "academy": "GRACIE BARRA 東京",
+          "name": "ファンダメンタルクラス",
+          "description": "基本的な技術を学ぶ初心者向けクラス",
+          "day_of_week": "tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "class_type": "beginner",
+          "instructor": "鈴木 隆太"
+        },
+        {
+          "academy": "GRACIE BARRA 東京",
+          "name": "女性専用クラス",
+          "description": "女性のみ参加可能なクラス",
+          "day_of_week": "wednesday",
+          "start_time": "10:30",
+          "end_time": "12:00",
+          "class_type": "women",
+          "instructor": "佐藤 美香"
+        },
+        {
+          "academy": "GRACIE BARRA 東京",
+          "name": "ファンダメンタルクラス",
+          "description": "基本的な技術を学ぶ初心者向けクラス",
+          "day_of_week": "wednesday",
+          "start_time": "12:00",
+          "end_time": "13:30",
+          "class_type": "beginner",
+          "instructor": "鈴木 隆太"
+        },
+        {
+          "academy": "GRACIE BARRA 東京",
+          "name": "アドバンスクラス",
+          "description": "上級者向けの技術トレーニング",
+          "day_of_week": "wednesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "class_type": "advanced",
+          "instructor": "鈴木 隆太"
+        },
+        {
+          "academy": "GRACIE BARRA 東京",
+          "name": "ノーギクラス",
+          "description": "道着なしでの柔術トレーニング",
+          "day_of_week": "thursday",
+          "start_time": "12:00",
+          "end_time": "13:30",
+          "class_type": "intermediate",
+          "instructor": "鈴木 隆太"
+        },
+        {
+          "academy": "GRACIE BARRA 東京",
+          "name": "ファンダメンタルクラス",
+          "description": "基本的な技術を学ぶ初心者向けクラス",
+          "day_of_week": "thursday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "class_type": "beginner",
+          "instructor": "鈴木 隆太"
+        },
+        {
+          "academy": "GRACIE BARRA 東京",
+          "name": "ファンダメンタルクラス",
+          "description": "基本的な技術を学ぶ初心者向けクラス",
+          "day_of_week": "friday",
+          "start_time": "12:00",
+          "end_time": "13:30",
+          "class_type": "beginner",
+          "instructor": "鈴木 隆太"
+        },
+        {
+          "academy": "GRACIE BARRA 東京",
+          "name": "コンペティションクラス",
+          "description": "大会に向けた準備と戦略",
+          "day_of_week": "friday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "class_type": "advanced",
+          "instructor": "鈴木 隆太"
+        },
+        {
+          "academy": "GRACIE BARRA 東京",
+          "name": "キッズクラス",
+          "description": "子供向けの柔術クラス",
+          "day_of_week": "saturday",
+          "start_time": "10:00",
+          "end_time": "11:00",
+          "class_type": "kids",
+          "instructor": "佐藤 美香"
+        },
+        {
+          "academy": "GRACIE BARRA 東京",
+          "name": "オールレベルクラス",
+          "description": "全レベル対象のクラス",
+          "day_of_week": "saturday",
+          "start_time": "11:30",
+          "end_time": "13:00",
+          "class_type": "intermediate",
+          "instructor": "鈴木 隆太"
+        },
+        {
+          "academy": "GRACIE BARRA 東京",
+          "name": "オープンマット",
+          "description": "自由練習の時間",
+          "day_of_week": "saturday",
+          "start_time": "13:30",
+          "end_time": "15:00",
+          "class_type": "open_mat",
+          "instructor": "スタッフ"
+        }
+      ]
+    },
+    {
+      "name": "CHECKMAT TOKYO",
+      "website": "https://checkmattokyo.com/",
+      "address": "〒160-0021 東京都新宿区歌舞伎町2-46-8 日章ビル 4F",
+      "phone": "03-6233-9069",
+      "email": "info@checkmattokyo.com",
+      "description": "世界的な柔術チームCHECKMATの東京支部。競技志向の強いアカデミー。",
+      "logo_url": "/images/logos/checkmat.jpg",
+      "social_media": {
+        "facebook": "https://www.facebook.com/checkmattokyo/",
+        "instagram": "https://www.instagram.com/checkmattokyo/"
+      },
+      "location": {
+        "latitude": 35.6956,
+        "longitude": 139.7037
+      },
+      "classes": [
+        {
+          "academy": "CHECKMAT TOKYO",
+          "name": "ファンダメンタルクラス",
+          "description": "基本的な技術を学ぶ初心者向けクラス",
+          "day_of_week": "monday",
+          "start_time": "12:00",
+          "end_time": "13:30",
+          "class_type": "beginner",
+          "instructor": "高橋 直樹"
+        },
+        {
+          "academy": "CHECKMAT TOKYO",
+          "name": "オープンマット",
+          "description": "自由練習の時間",
+          "day_of_week": "monday",
+          "start_time": "14:00",
+          "end_time": "15:30",
+          "class_type": "open_mat",
+          "instructor": "スタッフ"
+        },
+        {
+          "academy": "CHECKMAT TOKYO",
+          "name": "アドバンスクラス",
+          "description": "上級者向けの技術トレーニング",
+          "day_of_week": "monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "class_type": "advanced",
+          "instructor": "高橋 直樹"
+        },
+        {
+          "academy": "CHECKMAT TOKYO",
+          "name": "ノーギクラス",
+          "description": "道着なしでの柔術トレーニング",
+          "day_of_week": "tuesday",
+          "start_time": "12:00",
+          "end_time": "13:30",
+          "class_type": "intermediate",
+          "instructor": "高橋 直樹"
+        },
+        {
+          "academy": "CHECKMAT TOKYO",
+          "name": "ファンダメンタルクラス",
+          "description": "基本的な技術を学ぶ初心者向けクラス",
+          "day_of_week": "tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "class_type": "beginner",
+          "instructor": "高橋 直樹"
+        },
+        {
+          "academy": "CHECKMAT TOKYO",
+          "name": "女性専用クラス",
+          "description": "女性のみ参加可能なクラス",
+          "day_of_week": "wednesday",
+          "start_time": "10:30",
+          "end_time": "12:00",
+          "class_type": "women",
+          "instructor": "山田 恵"
+        },
+        {
+          "academy": "CHECKMAT TOKYO",
+          "name": "ファンダメンタルクラス",
+          "description": "基本的な技術を学ぶ初心者向けクラス",
+          "day_of_week": "wednesday",
+          "start_time": "12:00",
+          "end_time": "13:30",
+          "class_type": "beginner",
+          "instructor": "高橋 直樹"
+        },
+        {
+          "academy": "CHECKMAT TOKYO",
+          "name": "アドバンスクラス",
+          "description": "上級者向けの技術トレーニング",
+          "day_of_week": "wednesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "class_type": "advanced",
+          "instructor": "高橋 直樹"
+        },
+        {
+          "academy": "CHECKMAT TOKYO",
+          "name": "ノーギクラス",
+          "description": "道着なしでの柔術トレーニング",
+          "day_of_week": "thursday",
+          "start_time": "12:00",
+          "end_time": "13:30",
+          "class_type": "intermediate",
+          "instructor": "高橋 直樹"
+        },
+        {
+          "academy": "CHECKMAT TOKYO",
+          "name": "ファンダメンタルクラス",
+          "description": "基本的な技術を学ぶ初心者向けクラス",
+          "day_of_week": "thursday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "class_type": "beginner",
+          "instructor": "高橋 直樹"
+        },
+        {
+          "academy": "CHECKMAT TOKYO",
+          "name": "ファンダメンタルクラス",
+          "description": "基本的な技術を学ぶ初心者向けクラス",
+          "day_of_week": "friday",
+          "start_time": "12:00",
+          "end_time": "13:30",
+          "class_type": "beginner",
+          "instructor": "高橋 直樹"
+        },
+        {
+          "academy": "CHECKMAT TOKYO",
+          "name": "コンペティションクラス",
+          "description": "大会に向けた準備と戦略",
+          "day_of_week": "friday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "class_type": "advanced",
+          "instructor": "高橋 直樹"
+        },
+        {
+          "academy": "CHECKMAT TOKYO",
+          "name": "キッズクラス",
+          "description": "子供向けの柔術クラス",
+          "day_of_week": "saturday",
+          "start_time": "10:00",
+          "end_time": "11:00",
+          "class_type": "kids",
+          "instructor": "山田 恵"
+        },
+        {
+          "academy": "CHECKMAT TOKYO",
+          "name": "オールレベルクラス",
+          "description": "全レベル対象のクラス",
+          "day_of_week": "saturday",
+          "start_time": "11:30",
+          "end_time": "13:00",
+          "class_type": "intermediate",
+          "instructor": "高橋 直樹"
+        },
+        {
+          "academy": "CHECKMAT TOKYO",
+          "name": "オープンマット",
+          "description": "自由練習の時間",
+          "day_of_week": "saturday",
+          "start_time": "13:30",
+          "end_time": "15:00",
+          "class_type": "open_mat",
+          "instructor": "スタッフ"
+        }
+      ]
+    },
+    {
+      "name": "AACC柔術アカデミー",
+      "website": "https://aaccbjj.com/",
+      "address": "〒171-0014 東京都豊島区池袋2-43-1 池袋青柳ビル 8F",
+      "phone": "03-5985-0980",
+      "email": "info@aaccbjj.com",
+      "description": "池袋駅から徒歩5分。アジア人の体格に合わせた柔術指導が特徴。",
+      "logo_url": "/images/logos/aacc.jpg",
+      "social_media": {
+        "facebook": "https://www.facebook.com/aaccbjj/",
+        "instagram": "https://www.instagram.com/aaccbjj/"
+      },
+      "location": {
+        "latitude": 35.7295,
+        "longitude": 139.7109
+      },
+      "classes": [
+        {
+          "academy": "AACC柔術アカデミー",
+          "name": "ファンダメンタルクラス",
+          "description": "基本的な技術を学ぶ初心者向けクラス",
+          "day_of_week": "monday",
+          "start_time": "12:00",
+          "end_time": "13:30",
+          "class_type": "beginner",
+          "instructor": "佐藤 健一"
+        },
+        {
+          "academy": "AACC柔術アカデミー",
+          "name": "オープンマット",
+          "description": "自由練習の時間",
+          "day_of_week": "monday",
+          "start_time": "14:00",
+          "end_time": "15:30",
+          "class_type": "open_mat",
+          "instructor": "スタッフ"
+        },
+        {
+          "academy": "AACC柔術アカデミー",
+          "name": "アドバンスクラス",
+          "description": "上級者向けの技術トレーニング",
+          "day_of_week": "monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "class_type": "advanced",
+          "instructor": "佐藤 健一"
+        },
+        {
+          "academy": "AACC柔術アカデミー",
+          "name": "ノーギクラス",
+          "description": "道着なしでの柔術トレーニング",
+          "day_of_week": "tuesday",
+          "start_time": "12:00",
+          "end_time": "13:30",
+          "class_type": "intermediate",
+          "instructor": "佐藤 健一"
+        },
+        {
+          "academy": "AACC柔術アカデミー",
+          "name": "ファンダメンタルクラス",
+          "description": "基本的な技術を学ぶ初心者向けクラス",
+          "day_of_week": "tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "class_type": "beginner",
+          "instructor": "佐藤 健一"
+        },
+        {
+          "academy": "AACC柔術アカデミー",
+          "name": "女性専用クラス",
+          "description": "女性のみ参加可能なクラス",
+          "day_of_week": "wednesday",
+          "start_time": "10:30",
+          "end_time": "12:00",
+          "class_type": "women",
+          "instructor": "鈴木 真理"
+        },
+        {
+          "academy": "AACC柔術アカデミー",
+          "name": "ファンダメンタルクラス",
+          "description": "基本的な技術を学ぶ初心者向けクラス",
+          "day_of_week": "wednesday",
+          "start_time": "12:00",
+          "end_time": "13:30",
+          "class_type": "beginner",
+          "instructor": "佐藤 健一"
+        },
+        {
+          "academy": "AACC柔術アカデミー",
+          "name": "アドバンスクラス",
+          "description": "上級者向けの技術トレーニング",
+          "day_of_week": "wednesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "class_type": "advanced",
+          "instructor": "佐藤 健一"
+        },
+        {
+          "academy": "AACC柔術アカデミー",
+          "name": "ノーギクラス",
+          "description": "道着なしでの柔術トレーニング",
+          "day_of_week": "thursday",
+          "start_time": "12:00",
+          "end_time": "13:30",
+          "class_type": "intermediate",
+          "instructor": "佐藤 健一"
+        },
+        {
+          "academy": "AACC柔術アカデミー",
+          "name": "ファンダメンタルクラス",
+          "description": "基本的な技術を学ぶ初心者向けクラス",
+          "day_of_week": "thursday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "class_type": "beginner",
+          "instructor": "佐藤 健一"
+        },
+        {
+          "academy": "AACC柔術アカデミー",
+          "name": "ファンダメンタルクラス",
+          "description": "基本的な技術を学ぶ初心者向けクラス",
+          "day_of_week": "friday",
+          "start_time": "12:00",
+          "end_time": "13:30",
+          "class_type": "beginner",
+          "instructor": "佐藤 健一"
+        },
+        {
+          "academy": "AACC柔術アカデミー",
+          "name": "コンペティションクラス",
+          "description": "大会に向けた準備と戦略",
+          "day_of_week": "friday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "class_type": "advanced",
+          "instructor": "佐藤 健一"
+        },
+        {
+          "academy": "AACC柔術アカデミー",
+          "name": "キッズクラス",
+          "description": "子供向けの柔術クラス",
+          "day_of_week": "saturday",
+          "start_time": "10:00",
+          "end_time": "11:00",
+          "class_type": "kids",
+          "instructor": "鈴木 真理"
+        },
+        {
+          "academy": "AACC柔術アカデミー",
+          "name": "オールレベルクラス",
+          "description": "全レベル対象のクラス",
+          "day_of_week": "saturday",
+          "start_time": "11:30",
+          "end_time": "13:00",
+          "class_type": "intermediate",
+          "instructor": "佐藤 健一"
+        },
+        {
+          "academy": "AACC柔術アカデミー",
+          "name": "オープンマット",
+          "description": "自由練習の時間",
+          "day_of_week": "saturday",
+          "start_time": "13:30",
+          "end_time": "15:00",
+          "class_type": "open_mat",
+          "instructor": "スタッフ"
+        }
+      ]
+    },
+    {
+      "name": "IMPACTO JAPAN",
+      "website": "https://impactojapan.com/",
+      "address": "〒153-0051 東京都目黒区上目黒1-26-1 中目黒アトラスタワー 3F",
+      "phone": "03-6303-2159",
+      "email": "info@impactojapan.com",
+      "description": "中目黒駅直結の好立地。ブラジル人指導者によるオーセンティックな柔術指導。",
+      "logo_url": "/images/logos/impacto.jpg",
+      "social_media": {
+        "facebook": "https://www.facebook.com/impactojapan/",
+        "instagram": "https://www.instagram.com/impactojapan/"
+      },
+      "location": {
+        "latitude": 35.6438,
+        "longitude": 139.6982
+      },
+      "classes": [
+        {
+          "academy": "IMPACTO JAPAN",
+          "name": "ファンダメンタルクラス",
+          "description": "基本的な技術を学ぶ初心者向けクラス",
+          "day_of_week": "monday",
+          "start_time": "12:00",
+          "end_time": "13:30",
+          "class_type": "beginner",
+          "instructor": "ホドリゴ・シウバ"
+        },
+        {
+          "academy": "IMPACTO JAPAN",
+          "name": "オープンマット",
+          "description": "自由練習の時間",
+          "day_of_week": "monday",
+          "start_time": "14:00",
+          "end_time": "15:30",
+          "class_type": "open_mat",
+          "instructor": "スタッフ"
+        },
+        {
+          "academy": "IMPACTO JAPAN",
+          "name": "アドバンスクラス",
+          "description": "上級者向けの技術トレーニング",
+          "day_of_week": "monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "class_type": "advanced",
+          "instructor": "ホドリゴ・シウバ"
+        },
+        {
+          "academy": "IMPACTO JAPAN",
+          "name": "ノーギクラス",
+          "description": "道着なしでの柔術トレーニング",
+          "day_of_week": "tuesday",
+          "start_time": "12:00",
+          "end_time": "13:30",
+          "class_type": "intermediate",
+          "instructor": "ホドリゴ・シウバ"
+        },
+        {
+          "academy": "IMPACTO JAPAN",
+          "name": "ファンダメンタルクラス",
+          "description": "基本的な技術を学ぶ初心者向けクラス",
+          "day_of_week": "tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "class_type": "beginner",
+          "instructor": "ホドリゴ・シウバ"
+        },
+        {
+          "academy": "IMPACTO JAPAN",
+          "name": "女性専用クラス",
+          "description": "女性のみ参加可能なクラス",
+          "day_of_week": "wednesday",
+          "start_time": "10:30",
+          "end_time": "12:00",
+          "class_type": "women",
+          "instructor": "中村 美香"
+        },
+        {
+          "academy": "IMPACTO JAPAN",
+          "name": "ファンダメンタルクラス",
+          "description": "基本的な技術を学ぶ初心者向けクラス",
+          "day_of_week": "wednesday",
+          "start_time": "12:00",
+          "end_time": "13:30",
+          "class_type": "beginner",
+          "instructor": "ホドリゴ・シウバ"
+        },
+        {
+          "academy": "IMPACTO JAPAN",
+          "name": "アドバンスクラス",
+          "description": "上級者向けの技術トレーニング",
+          "day_of_week": "wednesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "class_type": "advanced",
+          "instructor": "ホドリゴ・シウバ"
+        },
+        {
+          "academy": "IMPACTO JAPAN",
+          "name": "ノーギクラス",
+          "description": "道着なしでの柔術トレーニング",
+          "day_of_week": "thursday",
+          "start_time": "12:00",
+          "end_time": "13:30",
+          "class_type": "intermediate",
+          "instructor": "ホドリゴ・シウバ"
+        },
+        {
+          "academy": "IMPACTO JAPAN",
+          "name": "ファンダメンタルクラス",
+          "description": "基本的な技術を学ぶ初心者向けクラス",
+          "day_of_week": "thursday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "class_type": "beginner",
+          "instructor": "ホドリゴ・シウバ"
+        },
+        {
+          "academy": "IMPACTO JAPAN",
+          "name": "ファンダメンタルクラス",
+          "description": "基本的な技術を学ぶ初心者向けクラス",
+          "day_of_week": "friday",
+          "start_time": "12:00",
+          "end_time": "13:30",
+          "class_type": "beginner",
+          "instructor": "ホドリゴ・シウバ"
+        },
+        {
+          "academy": "IMPACTO JAPAN",
+          "name": "コンペティションクラス",
+          "description": "大会に向けた準備と戦略",
+          "day_of_week": "friday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "class_type": "advanced",
+          "instructor": "ホドリゴ・シウバ"
+        },
+        {
+          "academy": "IMPACTO JAPAN",
+          "name": "キッズクラス",
+          "description": "子供向けの柔術クラス",
+          "day_of_week": "saturday",
+          "start_time": "10:00",
+          "end_time": "11:00",
+          "class_type": "kids",
+          "instructor": "中村 美香"
+        },
+        {
+          "academy": "IMPACTO JAPAN",
+          "name": "オールレベルクラス",
+          "description": "全レベル対象のクラス",
+          "day_of_week": "saturday",
+          "start_time": "11:30",
+          "end_time": "13:00",
+          "class_type": "intermediate",
+          "instructor": "ホドリゴ・シウバ"
+        },
+        {
+          "academy": "IMPACTO JAPAN",
+          "name": "オープンマット",
+          "description": "自由練習の時間",
+          "day_of_week": "saturday",
+          "start_time": "13:30",
+          "end_time": "15:00",
+          "class_type": "open_mat",
+          "instructor": "スタッフ"
+        }
+      ]
+    },
+    {
+      "name": "TOTALCOMBAT柔術アカデミー",
+      "website": "https://totalcombat.jp/",
+      "address": "〒160-0023 東京都新宿区西新宿7-2-6 西新宿K-1ビル 4F",
+      "phone": "03-6908-5455",
+      "email": "info@totalcombat.jp",
+      "description": "新宿駅西口から徒歩5分。柔術とMMAの両方を学べる総合格闘技ジム。",
+      "logo_url": "/images/logos/totalcombat.jpg",
+      "social_media": {
+        "facebook": "https://www.facebook.com/totalcombatjp/",
+        "instagram": "https://www.instagram.com/totalcombatjp/"
+      },
+      "location": {
+        "latitude": 35.6932,
+        "longitude": 139.6957
+      },
+      "classes": [
+        {
+          "academy": "TOTALCOMBAT柔術アカデミー",
+          "name": "ファンダメンタルクラス",
+          "description": "基本的な技術を学ぶ初心者向けクラス",
+          "day_of_week": "monday",
+          "start_time": "12:00",
+          "end_time": "13:30",
+          "class_type": "beginner",
+          "instructor": "田中 誠"
+        },
+        {
+          "academy": "TOTALCOMBAT柔術アカデミー",
+          "name": "オープンマット",
+          "description": "自由練習の時間",
+          "day_of_week": "monday",
+          "start_time": "14:00",
+          "end_time": "15:30",
+          "class_type": "open_mat",
+          "instructor": "スタッフ"
+        },
+        {
+          "academy": "TOTALCOMBAT柔術アカデミー",
+          "name": "アドバンスクラス",
+          "description": "上級者向けの技術トレーニング",
+          "day_of_week": "monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "class_type": "advanced",
+          "instructor": "田中 誠"
+        },
+        {
+          "academy": "TOTALCOMBAT柔術アカデミー",
+          "name": "ノーギクラス",
+          "description": "道着なしでの柔術トレーニング",
+          "day_of_week": "tuesday",
+          "start_time": "12:00",
+          "end_time": "13:30",
+          "class_type": "intermediate",
+          "instructor": "田中 誠"
+        },
+        {
+          "academy": "TOTALCOMBAT柔術アカデミー",
+          "name": "ファンダメンタルクラス",
+          "description": "基本的な技術を学ぶ初心者向けクラス",
+          "day_of_week": "tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "class_type": "beginner",
+          "instructor": "田中 誠"
+        },
+        {
+          "academy": "TOTALCOMBAT柔術アカデミー",
+          "name": "女性専用クラス",
+          "description": "女性のみ参加可能なクラス",
+          "day_of_week": "wednesday",
+          "start_time": "10:30",
+          "end_time": "12:00",
+          "class_type": "women",
+          "instructor": "佐藤 美咲"
+        },
+        {
+          "academy": "TOTALCOMBAT柔術アカデミー",
+          "name": "ファンダメンタルクラス",
+          "description": "基本的な技術を学ぶ初心者向けクラス",
+          "day_of_week": "wednesday",
+          "start_time": "12:00",
+          "end_time": "13:30",
+          "class_type": "beginner",
+          "instructor": "田中 誠"
+        },
+        {
+          "academy": "TOTALCOMBAT柔術アカデミー",
+          "name": "アドバンスクラス",
+          "description": "上級者向けの技術トレーニング",
+          "day_of_week": "wednesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "class_type": "advanced",
+          "instructor": "田中 誠"
+        },
+        {
+          "academy": "TOTALCOMBAT柔術アカデミー",
+          "name": "ノーギクラス",
+          "description": "道着なしでの柔術トレーニング",
+          "day_of_week": "thursday",
+          "start_time": "12:00",
+          "end_time": "13:30",
+          "class_type": "intermediate",
+          "instructor": "田中 誠"
+        },
+        {
+          "academy": "TOTALCOMBAT柔術アカデミー",
+          "name": "ファンダメンタルクラス",
+          "description": "基本的な技術を学ぶ初心者向けクラス",
+          "day_of_week": "thursday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "class_type": "beginner",
+          "instructor": "田中 誠"
+        },
+        {
+          "academy": "TOTALCOMBAT柔術アカデミー",
+          "name": "ファンダメンタルクラス",
+          "description": "基本的な技術を学ぶ初心者向けクラス",
+          "day_of_week": "friday",
+          "start_time": "12:00",
+          "end_time": "13:30",
+          "class_type": "beginner",
+          "instructor": "田中 誠"
+        },
+        {
+          "academy": "TOTALCOMBAT柔術アカデミー",
+          "name": "コンペティションクラス",
+          "description": "大会に向けた準備と戦略",
+          "day_of_week": "friday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "class_type": "advanced",
+          "instructor": "田中 誠"
+        },
+        {
+          "academy": "TOTALCOMBAT柔術アカデミー",
+          "name": "キッズクラス",
+          "description": "子供向けの柔術クラス",
+          "day_of_week": "saturday",
+          "start_time": "10:00",
+          "end_time": "11:00",
+          "class_type": "kids",
+          "instructor": "佐藤 美咲"
+        },
+        {
+          "academy": "TOTALCOMBAT柔術アカデミー",
+          "name": "オールレベルクラス",
+          "description": "全レベル対象のクラス",
+          "day_of_week": "saturday",
+          "start_time": "11:30",
+          "end_time": "13:00",
+          "class_type": "intermediate",
+          "instructor": "田中 誠"
+        },
+        {
+          "academy": "TOTALCOMBAT柔術アカデミー",
+          "name": "オープンマット",
+          "description": "自由練習の時間",
+          "day_of_week": "saturday",
+          "start_time": "13:30",
+          "end_time": "15:00",
+          "class_type": "open_mat",
+          "instructor": "スタッフ"
+        }
+      ]
+    },
+    {
+      "name": "PUREBRED柔術東京",
+      "website": "https://purebredbjj.tokyo/",
+      "address": "〒150-0002 東京都渋谷区渋谷1-8-6 宮益坂STビル 5F",
+      "phone": "03-6427-9557",
+      "email": "info@purebredbjj.tokyo",
+      "description": "渋谷駅から徒歩3分。沖縄発祥の有名柔術チームPUREBREDの東京支部。",
+      "logo_url": "/images/logos/purebred.jpg",
+      "social_media": {
+        "facebook": "https://www.facebook.com/purebredbjjtokyo/",
+        "instagram": "https://www.instagram.com/purebredbjjtokyo/"
+      },
+      "location": {
+        "latitude": 35.6598,
+        "longitude": 139.7022
+      },
+      "classes": [
+        {
+          "academy": "PUREBRED柔術東京",
+          "name": "ファンダメンタルクラス",
+          "description": "基本的な技術を学ぶ初心者向けクラス",
+          "day_of_week": "monday",
+          "start_time": "12:00",
+          "end_time": "13:30",
+          "class_type": "beginner",
+          "instructor": "山本 直樹"
+        },
+        {
+          "academy": "PUREBRED柔術東京",
+          "name": "オープンマット",
+          "description": "自由練習の時間",
+          "day_of_week": "monday",
+          "start_time": "14:00",
+          "end_time": "15:30",
+          "class_type": "open_mat",
+          "instructor": "スタッフ"
+        },
+        {
+          "academy": "PUREBRED柔術東京",
+          "name": "アドバンスクラス",
+          "description": "上級者向けの技術トレーニング",
+          "day_of_week": "monday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "class_type": "advanced",
+          "instructor": "山本 直樹"
+        },
+        {
+          "academy": "PUREBRED柔術東京",
+          "name": "ノーギクラス",
+          "description": "道着なしでの柔術トレーニング",
+          "day_of_week": "tuesday",
+          "start_time": "12:00",
+          "end_time": "13:30",
+          "class_type": "intermediate",
+          "instructor": "山本 直樹"
+        },
+        {
+          "academy": "PUREBRED柔術東京",
+          "name": "ファンダメンタルクラス",
+          "description": "基本的な技術を学ぶ初心者向けクラス",
+          "day_of_week": "tuesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "class_type": "beginner",
+          "instructor": "山本 直樹"
+        },
+        {
+          "academy": "PUREBRED柔術東京",
+          "name": "女性専用クラス",
+          "description": "女性のみ参加可能なクラス",
+          "day_of_week": "wednesday",
+          "start_time": "10:30",
+          "end_time": "12:00",
+          "class_type": "women",
+          "instructor": "鈴木 恵"
+        },
+        {
+          "academy": "PUREBRED柔術東京",
+          "name": "ファンダメンタルクラス",
+          "description": "基本的な技術を学ぶ初心者向けクラス",
+          "day_of_week": "wednesday",
+          "start_time": "12:00",
+          "end_time": "13:30",
+          "class_type": "beginner",
+          "instructor": "山本 直樹"
+        },
+        {
+          "academy": "PUREBRED柔術東京",
+          "name": "アドバンスクラス",
+          "description": "上級者向けの技術トレーニング",
+          "day_of_week": "wednesday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "class_type": "advanced",
+          "instructor": "山本 直樹"
+        },
+        {
+          "academy": "PUREBRED柔術東京",
+          "name": "ノーギクラス",
+          "description": "道着なしでの柔術トレーニング",
+          "day_of_week": "thursday",
+          "start_time": "12:00",
+          "end_time": "13:30",
+          "class_type": "intermediate",
+          "instructor": "山本 直樹"
+        },
+        {
+          "academy": "PUREBRED柔術東京",
+          "name": "ファンダメンタルクラス",
+          "description": "基本的な技術を学ぶ初心者向けクラス",
+          "day_of_week": "thursday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "class_type": "beginner",
+          "instructor": "山本 直樹"
+        },
+        {
+          "academy": "PUREBRED柔術東京",
+          "name": "ファンダメンタルクラス",
+          "description": "基本的な技術を学ぶ初心者向けクラス",
+          "day_of_week": "friday",
+          "start_time": "12:00",
+          "end_time": "13:30",
+          "class_type": "beginner",
+          "instructor": "山本 直樹"
+        },
+        {
+          "academy": "PUREBRED柔術東京",
+          "name": "コンペティションクラス",
+          "description": "大会に向けた準備と戦略",
+          "day_of_week": "friday",
+          "start_time": "19:00",
+          "end_time": "20:30",
+          "class_type": "advanced",
+          "instructor": "山本 直樹"
+        },
+        {
+          "academy": "PUREBRED柔術東京",
+          "name": "キッズクラス",
+          "description": "子供向けの柔術クラス",
+          "day_of_week": "saturday",
+          "start_time": "10:00",
+          "end_time": "11:00",
+          "class_type": "kids",
+          "instructor": "鈴木 恵"
+        },
+        {
+          "academy": "PUREBRED柔術東京",
+          "name": "オールレベルクラス",
+          "description": "全レベル対象のクラス",
+          "day_of_week": "saturday",
+          "start_time": "11:30",
+          "end_time": "13:00",
+          "class_type": "intermediate",
+          "instructor": "山本 直樹"
+        },
+        {
+          "academy": "PUREBRED柔術東京",
+          "name": "オープンマット",
+          "description": "自由練習の時間",
+          "day_of_week": "saturday",
+          "start_time": "13:30",
+          "end_time": "15:00",
+          "class_type": "open_mat",
+          "instructor": "スタッフ"
+        }
+      ]
+    }
+  ]
+}

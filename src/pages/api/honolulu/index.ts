@@ -76,9 +76,18 @@ export default async function handler(
       }
       
       if (day_of_week) {
-        filteredClasses = filteredClasses.filter(cls => 
-          cls.day_of_week.toLowerCase() === String(day_of_week).toLowerCase()
-        );
+        const dayOfWeekLower = String(day_of_week).toLowerCase();
+        filteredClasses = filteredClasses.filter(cls => {
+          // day_of_weekフィールドが存在する場合はそれを使用
+          if (cls.day_of_week) {
+            return cls.day_of_week.toLowerCase() === dayOfWeekLower;
+          }
+          // dayフィールドが存在する場合はそれを使用（互換性のため）
+          if ('day' in cls) {
+            return (cls as any).day.toLowerCase() === dayOfWeekLower;
+          }
+          return false;
+        });
       }
       
       // アカデミーごとにクラスをグループ化
