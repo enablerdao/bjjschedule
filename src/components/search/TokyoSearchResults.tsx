@@ -30,11 +30,11 @@ type Class = {
   instructor: string;
 };
 
-type HonoluluSearchResultsProps = {
+type TokyoSearchResultsProps = {
   academies: Academy[];
 };
 
-export default function HonoluluSearchResults({ academies }: HonoluluSearchResultsProps) {
+export default function TokyoSearchResults({ academies }: TokyoSearchResultsProps) {
   const { t } = useTranslation(['common', 'search']);
   
   // 曜日の順序を定義

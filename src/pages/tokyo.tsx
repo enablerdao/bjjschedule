@@ -1,12 +1,12 @@
 import { useState, useEffect } from 'react';
-import { GetStaticProps } from 'next';
 import { useTranslation } from 'next-i18next';
 import { serverSideTranslations } from 'next-i18next/serverSideTranslations';
+import { GetStaticProps } from 'next';
 import Head from 'next/head';
 import Header from '@/components/layout/Header';
 import Footer from '@/components/layout/Footer';
 import HonoluluSearchFilters from '@/components/search/HonoluluSearchFilters';
-import HonoluluSearchResults from '@/components/search/HonoluluSearchResults';
+import TokyoSearchResults from '@/components/search/TokyoSearchResults';
 import HonoluluMapView from '@/components/search/HonoluluMapView';
 
 type Academy = {
@@ -36,24 +36,13 @@ type Class = {
   instructor: string;
 };
 
-type TokyoData = {
+type HonoluluData = {
   academies: Academy[];
 };
 
-export const getStaticProps: GetStaticProps = async ({ locale }) => {
-  return {
-    props: {
-      ...(await serverSideTranslations(locale || 'ja', [
-        'common',
-        'search',
-      ])),
-    },
-  };
-};
-
-export default function TokyoPage() {
+export default function HonoluluPage() {
   const { t } = useTranslation(['common', 'search']);
-  const [data, setData] = useState<TokyoData | null>(null);
+  const [data, setData] = useState<HonoluluData | null>(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
   const [filters, setFilters] = useState({
@@ -62,51 +51,50 @@ export default function TokyoPage() {
     day_of_week: '',
   });
   const [viewMode, setViewMode] = useState<'list' | 'map'>('list');
-  
+
   useEffect(() => {
     const fetchData = async () => {
       setLoading(true);
       try {
-        // クエリパラメータを構築
-        const queryParams = new URLSearchParams();
-        if (filters.academy_name) queryParams.append('academy_name', filters.academy_name);
-        if (filters.class_type) queryParams.append('class_type', filters.class_type);
-        if (filters.day_of_week) queryParams.append('day_of_week', filters.day_of_week);
+        // フィルターパラメータを構築
+        const params = new URLSearchParams();
+        if (filters.academy_name) params.append('academy_name', filters.academy_name);
+        if (filters.class_type) params.append('class_type', filters.class_type);
+        if (filters.day_of_week) params.append('day_of_week', filters.day_of_week);
         
         // APIからデータを取得
-        const response = await fetch(`/api/tokyo?${queryParams.toString()}`);
+        const response = await fetch(`/api/tokyo?${params.toString()}`);
         
         if (!response.ok) {
-          throw new Error(`Failed to fetch data: ${response.status}`);
+          throw new Error(`Error: ${response.status}`);
         }
         
         const result = await response.json();
         setData(result);
-        setError(null);
       } catch (err) {
-        console.error('Error fetching Tokyo BJJ data:', err);
-        setError(t('search:errorFetchingData'));
+        setError('Failed to fetch data');
+        console.error(err);
       } finally {
         setLoading(false);
       }
     };
     
     fetchData();
-  }, [filters, t]);
-  
+  }, [filters]);
+
   const handleFilterChange = (newFilters: any) => {
-    setFilters(newFilters);
+    setFilters({ ...filters, ...newFilters });
   };
-  
+
   const handleViewModeChange = (mode: 'list' | 'map') => {
     setViewMode(mode);
   };
-  
+
   return (
     <>
       <Head>
-        <title>{`${t('search:tokyo_title')} | ${t('common:site_name')}`}</title>
-        <meta name="description" content={t('search:tokyo_description')} />
+        <title>{`${t('search:honolulu_title')} | ${t('common:site_name')}`}</title>
+        <meta name="description" content={t('search:honolulu_description')} />
       </Head>
       
       <Header />
@@ -148,7 +136,7 @@ export default function TokyoPage() {
         ) : (
           <div className="max-w-7xl mx-auto">
             {viewMode === 'list' ? (
-              <HonoluluSearchResults 
+              <TokyoSearchResults 
                 academies={data?.academies || []} 
               />
             ) : (
@@ -164,3 +152,11 @@ export default function TokyoPage() {
     </>
   );
 }
+
+export const getStaticProps: GetStaticProps = async ({ locale }) => {
+  return {
+    props: {
+      ...(await serverSideTranslations(locale || 'en', ['common', 'search'])),
+    },
+  };
+};
